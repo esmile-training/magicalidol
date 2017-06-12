@@ -1,0 +1,12 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2016-07-02 09:57:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2016-07-02 09:57:45 --> Fuel\Core\Request::execute - Called
+INFO - 2016-07-02 09:57:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-07-02 09:57:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "top"
+INFO - 2016-07-02 09:57:48 --> Fuel\Core\Request::execute - Called
+INFO - 2016-07-02 09:57:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-07-02 09:57:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "top"
+INFO - 2016-07-02 09:57:48 --> Fuel\Core\Request::execute - Called
+INFO - 2016-07-02 09:57:48 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2016-07-02 09:57:48 --> Error - Invalid config type "room". in /home/esmile-sys/www/share/fuel/core/classes/config.php on line 90

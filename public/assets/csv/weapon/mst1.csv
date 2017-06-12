@@ -1,0 +1,7 @@
+id	name	skillId	grade	img	boyimg
+1	木の斧	1	1	weapon/1/w101.png	weapon/boy1/boy_ax_wood.png
+2	石の斧	1	2	weapon/1/w102.png	weapon/boy1/boy_ax_stone.png
+3	鉄の斧	1	3	weapon/1/w103.png	weapon/boy1/boy_ax_iron.png
+4	銅の斧	1	4	weapon/1/w104.png	weapon/boy1/boy_ax_copper.png
+5	銀の斧	1	5	weapon/1/w105.png	weapon/boy1/boy_ax_silver.png
+6	金の斧	1	6	weapon/1/w106.png	weapon/boy1/boy_ax_gold.png

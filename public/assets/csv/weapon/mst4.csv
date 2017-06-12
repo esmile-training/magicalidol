@@ -1,0 +1,7 @@
+id	name	skillId	grade	img	boyimg
+1	木のブーメラン	4	1	weapon/4/w401.png	weapon/boy4/boy_boomerang_wood.png
+2	石のブーメラン	4	2	weapon/4/w402.png	weapon/boy4/boy_boomerang_stone.png
+3	鉄のブーメラン	4	3	weapon/4/w403.png	weapon/boy4/boy_boomerang_iron.png
+4	銅のブーメラン	4	4	weapon/4/w404.png	weapon/boy4/boy_boomerang_copper.png
+5	銀のブーメラン	4	5	weapon/4/w405.png	weapon/boy4/boy_boomerang_silver.png
+6	金のブーメラン	4	6	weapon/4/w406.png	weapon/boy4/boy_boomerang_gold.png

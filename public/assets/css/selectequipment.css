@@ -1,0 +1,52 @@
+﻿.weapon {
+	background-image : url("../img/equipment/eBweapon01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 80%;
+	padding-bottom: 27%;
+	left : 10%;
+	display:inline-block;
+	margin-bottom : 10%;
+}
+.weapon:active {
+	background-image : url("../img/equipment/eBweapon02.png");
+}
+.armor {
+	background-image : url("../img/equipment/eBarmor01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 80%;
+	padding-bottom: 27%;
+	left : 10%;
+	display:inline-block;
+	margin-bottom : 10%;
+}
+.armor:active {
+	background-image : url("../img/equipment/eBarmor02.png");
+}
+.avatar {
+	background-image : url("../img/equipment/eBavatar01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 80%;
+	padding-bottom: 27%;
+	left : 10%;
+	display:inline-block;
+	margin-bottom : 10%;
+}
+.avatar:active {
+	background-image : url("../img/equipment/eBavatar02.png");
+}
+.room {
+	background-image : url("../img/equipment/eBfurniture01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 80%;
+	padding-bottom: 27%;
+	left : 10%;
+	display:inline-block;
+	margin-bottom : 10%;
+}
+.room:active {
+	background-image : url("../img/equipment/eBfurniture02.png");
+}

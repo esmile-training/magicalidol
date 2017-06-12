@@ -1,0 +1,14 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2016-09-15 18:21:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2016-09-15 18:21:34 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-15 18:21:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-15 18:23:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/memo/server"
+INFO - 2016-09-15 18:23:56 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-15 18:23:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-15 18:41:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2016-09-15 18:41:08 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-15 18:41:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-15 19:07:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2016-09-15 19:07:38 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-15 19:07:38 --> Fuel\Core\Request::execute - Setting main Request

@@ -1,0 +1,261 @@
+body{
+	/*background-color:#AA3A53;*/
+	background-image:url("../img/top/back.jpg");
+	background-size:100% auto;
+	background-repeat: repeat-y;
+	color:#ffffff;
+	text-align:center;
+	margin:auto;
+	font-size: 2.5em;
+	margin: 0;
+	padding: 0;
+	margin: 0;  
+	padding: 180px 0 50px 0;
+	margin-bottom :120px;
+}
+
+img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+a{
+text-decoration: none;
+}
+a:link{
+	color: #ffffff;
+}
+a:visited{
+	color:#ffffff;
+}
+
+img.backButton{
+	background-image : url("../img/btn/bBack01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 30%;
+	margin : 0 auto;
+}
+img.backButton:active{
+	background-image : url("../img/btn/bBack02.png");
+}
+img.backButton:hover{
+	cursor:pointer;
+}
+#headerArea{/*ヘッター固定*/
+	position: fixed;
+	z-index: 3;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 14%;  
+
+}
+.headerArea{/*ヘッター画像の枠範囲*/
+	position: fixed;
+	z-index: 100;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 10.3%;  
+}
+
+.headerA{/*ヘッター画像の枠範囲*/
+	position: relative;
+	z-index: 100;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding-bottom: 19%;
+}
+.headerImg{/*ヘッター画像*/
+	position : absolute;
+	background-image: url("../img/header/header_foundation.png");
+	background-repeat: no-repeat;
+	background-size:contain;
+	width : 100%;
+	padding-bottom: 19%;
+}
+.hpFrame{/*HPフレーム画像、配置*/
+	position: absolute;
+	background-image: url("../img/header/header_bar_lid_01.png");
+	background-repeat: no-repeat;
+	background-size:contain;
+	width : 39.5%;
+	top : 48%;
+	left : 10.9%;
+	padding-bottom: 9%;
+}
+.apFrame{ /*apフレーム画像、配置*/
+	position: absolute;
+	background-image: url("../img/header/header_bar_lid_01.png");
+	background-repeat: no-repeat;
+	background-size:contain;
+	width : 39.5%;
+	top : 49%;
+	left : 59.9%;
+	padding-bottom: 9%;
+}
+.hpGauge{ /*HPゲージ画像、配置*/
+	position: absolute;
+	width : 28%;
+	height : 21%;
+	top : 59%;
+	left : 17%;
+	overflow: hidden;
+}
+.apGauge{/*apゲージ画像、配置*/
+	position: absolute;
+	width : 28%;
+	height : 21%; 
+	top : 60%;
+	left : 66%;
+	overflow: hidden;
+}
+.playerName{ /*プレイヤーの名前、位置*/
+	font-size : 1em;
+	position : absolute;
+	top : 9%;
+	left : 5%;
+	width : 36%;
+	height : 24%;
+	text-align: center;
+	padding-top : 1%;
+	padding-bottom : 1%
+}
+.Money{/*お金*/
+	position : absolute;
+	font-size: 1em;
+	top : 14%;
+	left : 54%;
+	width: 39%;
+	text-align: center;
+}
+.headerHp{/*HP*/
+	position : absolute;
+	font-size: 1em;
+	top : 22%;
+	left : 30%;
+}
+
+.headerAp{/*AP*/
+	position : absolute;
+	font-size: 1em;
+	top : 22%;
+	left : 30%;
+}
+
+
+.footer{
+	position :relative;
+	background-repeat:no-repeat;
+	background-size : contain;
+	z-index:100;
+	position: fixed;
+	bottom: -12%;
+	left: 0;
+	width: 100%;
+	padding-bottom: 31%;
+	background-image:url("../img/footer/footer_foundation.png");
+}
+
+
+.footerUp{
+	position : absolute;
+	background-repeat:no-repeat;
+	top : 4%;
+	left : 84%;
+	width: 12%;
+	padding-bottom: 12%;
+	background-image : url("../img/footer/footer_up_01.png");
+}
+.footerUp:active{
+	background-image : url("../img/footer/footer_up_02.png");
+}
+
+.footerDown{
+	position : absolute;
+	background-repeat:no-repeat;
+	display:none;
+	top : 4%;
+	left : 84%;
+	width: 12%;
+	padding-bottom: 12%;
+	background-image : url("../img/footer/footer_down_01.png");
+}
+.footerDown:active{
+	background-image : url("../img/footer/footer_down_02.png");
+}
+.footerMypage{
+	position : absolute;
+	background-image : url("../img/footer/footer_mypage_01.png");
+	background-repeat:no-repeat;
+	background-size: contain;
+	top : 48%;
+	left : 60%;
+	width: 14%;
+	padding-bottom: 14%;
+}
+.footerMypage:active{
+	background-image : url("../img/footer/footer_mypage_02.png");
+}
+.footerLogout{
+	position : absolute;
+	background-image : url("../img/footer/footer_logout_01.png");
+	background-repeat:no-repeat;
+	background-size: contain;
+	top : 48%;
+	left : 7%;
+	width: 14%;
+	padding-bottom: 14%;
+}
+.footerLogout:active{
+	background-image : url("../img/footer/footer_logout_02.png");
+}
+.footerOption{
+	position : absolute;
+	background-image : url("../img/footer/footer_option_01.png");
+	background-repeat:no-repeat;
+	background-size: contain;
+	top : 48%;
+	left : 34%;
+	width: 14%;
+	padding-bottom: 14%;
+}
+.footerOption:active{
+	background-image : url("../img/footer/footer_option_02.png");
+}
+
+
+.pager{
+	height: 1.2em;
+	margin: 0 auto;
+}
+.pagerSlider{
+	width: 1.5em;
+	height: 1.2em;
+	overflow: hidden;
+	position:relative;
+	display : inline-block;
+}
+.pagerSlideSet{
+	position:absolute;
+}
+.pagerSlide{
+	width: 1.5em;
+	float: left;
+	display: table-cell;
+}
+.pagerSlide:hover{
+	cursor:pointer;
+}
+span.pageLink:hover {
+	cursor:pointer;
+}

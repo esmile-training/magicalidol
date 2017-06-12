@@ -1,0 +1,5 @@
+id	name	description	value	price	img
+1	シーチキン	行動力を ２回復する	2	50	item/recovery/ap/tuna.png
+2	やきとり	行動力を ４回復する	4	90	item/recovery/ap/yakitori.png
+3	チャーシュー	行動力を ８回復する	8	170	item/recovery/ap/charsiu.png
+4	ステーキ	行動力を １０回復する	10	200	item/recovery/ap/steak.png

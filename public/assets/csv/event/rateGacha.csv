@@ -1,0 +1,5 @@
+id	name	eventGachaCategory	eventImg
+1	斧入手確率イベント	1	event/eventGacha/weapon_gacha_top_axup.png
+2	剣入手確率イベント	2	event/eventGacha/weapon_gacha_top_swordup.png
+3	ブーメラン入手確率イベント	3	event/eventGacha/weapon_gacha_top_boomerangup.png
+4	鎌入手確率イベント	4	event/eventGacha/weapon_gacha_top_sickleup.png

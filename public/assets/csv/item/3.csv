@@ -1,0 +1,10 @@
+id	name	description	status	value	price	img
+1	アタッカー	攻撃力を1.5倍にする	atk	1.5	200	item/recovery/support/atk01.png
+2	アタッカーEX	攻撃力を1.7倍にする	atk	1.7	500	item/recovery/support/atk02.png
+3	アタッカーSP	攻撃力を2倍にする	atk	2	1000	item/recovery/support/atk03.png
+4	ディフェンダー	防御力を1.5倍にする	def	1.5	200	item/recovery/support/def01.png
+5	ディフェンダーEX	防御力を1.7倍にする	def	1.7	500	item/recovery/support/def02.png
+6	ディフェンダーSP	防御力を2倍にする	def	2	1000	item/recovery/support/def03.png
+7	ヨクヨケール	回避率を1.5倍にする	avd	1.5	200	item/recovery/support/avd01.png
+8	ヨクヨケールEX	回避率を1.7倍にする	avd	1.7	500	item/recovery/support/avd02.png
+9	ヨクヨケールSP	回避率を2倍にする	avd	2	1000	item/recovery/support/avd03.png

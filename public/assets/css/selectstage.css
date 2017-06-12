@@ -1,0 +1,202 @@
+.selectLevel {
+	background-image:url("../img/stage/selection/dungeon_selection_01.png");
+	background-size: contain;
+	background-repeat:no-repeat;
+	position: relative;
+	width:80%;
+	padding-bottom: 27.5%;
+	margin: 5% auto; 
+}
+.selectLevel:active{
+	background-image:url("../img/stage/selection/dungeon_selection_02.png");
+}
+.selectLevel1 {
+	background-image:url("../img/stage/selection/dungeon_selection_forest_01.png");
+}
+.selectLevel1:active{
+	background-image:url("../img/stage/selection/dungeon_selection_forest_02.png");
+}
+.selectLevel2 {
+	background-image:url("../img/stage/selection/dungeon_selection_cave_01.png");
+}
+.selectLevel2:active{
+	background-image:url("../img/stage/selection/dungeon_selection_cave_02.png");
+}
+.selectLevel3 {
+	background-image:url("../img/stage/selection/dungeon_selection_castle_01.png");
+}
+.selectLevel3:active{
+	background-image:url("../img/stage/selection/dungeon_selection_castle_02.png");
+}
+.selectLevel4 {
+	background-image:url("../img/stage/selection/dungeon_selection_factory_01.png");
+}
+.selectLevel4:active{
+	background-image:url("../img/stage/selection/dungeon_selection_factory_02.png");
+}
+.selectLevel5 {
+	background-image:url("../img/stage/selection/dungeon_selection_cloud_01.png");
+}
+.selectLevel5:active{
+	background-image:url("../img/stage/selection/dungeon_selection_cloud_02.png");
+}
+.selectLevel6 {
+	background-image:url("../img/stage/selection/dungeon_selection_future_01.png");
+}
+.selectLevel6:active{
+	background-image:url("../img/stage/selection/dungeon_selection_future_02.png");
+}
+.selectLevel7 {
+	background-image:url("../img/stage/selection/dungeon_selection_rose_01.png");
+}
+.selectLevel7:active{
+	background-image:url("../img/stage/selection/dungeon_selection_rose_02.png");
+}
+.selectLevelE1 {
+	background-image:url("../img/stage/selection/dungeon_selection_baphomet_01.png");
+}
+.selectLevelE1:active{
+	background-image:url("../img/stage/selection/dungeon_selection_baphomet_02.png");
+}
+
+.selectEvent{
+	background-size: contain;
+	background-repeat:no-repeat;
+	position: relative;
+	width:80%;
+	padding-bottom: 40%;
+	margin: 5% auto; 
+}
+.selectEvent1{
+	background-image:url("../img/event/banner/event1-1_banner.png");
+}
+
+.selectStage {
+	background-image:url("../img/stage/selection/dungeon_selection_03.png");
+	background-repeat : no-repeat;
+	background-size : contain;
+	width:80%;
+	height:auto;
+	margin: 5% auto; 
+	padding: 1% 0% 3% 0%;
+}
+.selectStage:active{
+	background-image:url("../img/stage/selection/dungeon_selection_04.png");
+}
+
+.textLevel{
+	line-height:100px;
+	margin-right:150px;
+}
+
+.rankcount {
+	position: absolute;
+	top: 1%;
+	left: 1%;
+	font-size : 0.7em;
+	width: 98%;
+}
+.rankStar{
+	display: inline-block;
+	float: left;
+	width: 8%;
+}
+
+.dungeonName {
+	color: black;
+	position: absolute;
+	bottom: 10%;
+	left: 5%;
+	font-size : 1.2em;
+}
+.holdingPeriod{
+	position: absolute;
+	width: 60%;
+	bottom: 10%;
+	left: 6%;
+	font-size: 1em;
+}
+
+.fee {
+	position: absolute;
+	bottom: 10%;
+	right: 5%;
+	color: black;
+	font-size : 1em;
+}
+
+.modalResult {
+	position:fixed;
+	display:none;
+	z-index:51;
+	margin:0;
+	background-image:url("../img/frame/rFrame01.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:95%;
+}
+.resultRelative {
+	position:relative;
+	width:90%;
+	padding-bottom: 50%;
+	margin:0 auto;
+}
+.resultText{
+	position:absolute;
+	font-size:0.9em;
+	color: #513933;
+	top:14%;
+	left:0%;
+	right : 0%;
+}
+.resultText2{
+	position:absolute;
+	font-size:0.65em;
+	color: #513933;
+	top:27%;
+	left:0%;
+	right : 0%;
+}
+
+.modalYes{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	width : 35%;
+	top:40%;
+	left:15%;
+}
+.modalYes:hover{
+	cursor:pointer;
+}
+.modalYes:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+
+.modalNo{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:40%;
+	right:13%;
+	width : 35%;
+}
+.modalNo:hover{
+	cursor:pointer;
+}
+.modalNo:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+.modalOk{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:50%;
+	left:37%;
+}
+.modalOk:hover{
+	cursor:pointer;
+}
+.modalOk:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}

@@ -1,0 +1,21 @@
+.modalOverlay{
+	z-index:50;
+	display:none;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:120%;
+	background-color:rgba(0,0,0,0.75);
+
+}
+.modalContent{
+	position:fixed;
+	display:none;
+	z-index:51;
+	margin:0;
+	background-image:url("../img/frame/rFrame01.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:90%;
+}

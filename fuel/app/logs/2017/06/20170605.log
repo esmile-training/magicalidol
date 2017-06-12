@@ -1,0 +1,39 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2017-06-05 09:46:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 09:46:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 09:46:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 10:09:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 10:09:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 10:09:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 11:16:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 11:16:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 11:16:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 11:48:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 11:48:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 11:48:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 12:17:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 12:17:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 12:17:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 17:54:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 17:54:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 17:54:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 18:39:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 18:39:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 18:39:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 18:39:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "top"
+INFO - 2017-06-05 18:39:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 18:39:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 18:39:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "top"
+INFO - 2017-06-05 18:39:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 18:39:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 18:39:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-05 18:39:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 18:39:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 18:39:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "top"
+INFO - 2017-06-05 18:39:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 18:39:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-05 18:39:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "top"
+INFO - 2017-06-05 18:39:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-05 18:39:57 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-05 18:39:58 --> Error - Invalid config type "room". in /home/esmile-sys/www/share/fuel/core/classes/config.php on line 90

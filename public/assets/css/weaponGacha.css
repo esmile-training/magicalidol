@@ -1,0 +1,191 @@
+﻿.canGacha {
+	position : relative;
+	background-image:url("../img/weapon/strengthening_weapon_01.png");
+	background-size : contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 80%;
+	padding-bottom: 50%;
+	padding-left: 20%;
+}
+
+.cannotGacha {
+	position : relative;
+	background-image:url("../img/weapon/strengthening_weapon_02.png");
+	background-size : contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 80%;
+	padding-bottom: 50%;
+	padding-left: 20%;
+}
+
+.oneGacha {
+	width: 90%;
+	padding-left: 5%;
+}
+
+.name {
+	color: #ffffff;
+	font-size : 1.2em;
+	position : absolute;
+	top : 10.2%;
+	left : 32.0%;
+}
+
+.status {
+	color: #513933;
+	position : absolute;
+	font-size : 1.0em;
+	top : 29.5%;
+	left : 14%;
+}
+
+.index {
+	color : #33dddd;
+}
+
+td {
+	font-size : 2.7em;
+	width : 4.7em;
+}
+
+.datacenter {
+	text-align:center;
+}
+
+.dataright {
+	text-align:center;
+}
+
+.price {
+	color: #683933;
+	position : absolute;
+	top : 55%;
+	left : 40%;
+}
+
+.confirmStatus {
+	color: #513933;
+	position : absolute;
+	font-size : 0.6em;
+	top : 20%;
+	left : 40%;
+}
+
+.gachaConfirm {
+	z-index:51;
+	display:none;
+	position:fixed;
+	margin:0;
+	padding: 40% 50%;
+	background-image : url("../img/frame/rFrame03.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+}
+
+.avatarp{
+	color: #ffffff;
+}
+
+.pstatus {
+	color: #513933;
+	font-size : 0.7em;
+}
+
+.nameConfirm {
+	color: #ffffff;
+	font-size : 1.4em;
+	position : absolute;
+	top : 13%;
+	left : 17%;
+}
+
+.text {
+	z-index:51;
+	position : absolute;
+	background-image : url("../img/btn/bGeneral01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 35%;
+	top : 60%;
+	left : 16%;
+}
+
+.text:active {
+	background-image : url("../img/btn/bGeneral02.png");
+}
+.modalResult {
+	position:fixed;
+	display:none;
+	z-index:51;
+	margin:0;
+	background-image:url("../img/frame/rFrame01.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:90%;
+}
+
+.modalRelative {
+	position:relative;
+	width:90%;
+	padding-bottom: 80%;
+	margin:0 auto;
+}
+.resultRelative {
+	position:relative;
+	width:90%;
+	padding-bottom: 50%;
+	margin:0 auto;
+}
+.resultText{
+	position:absolute;
+	font-size:0.9em;
+	color: #513933;
+	top:25%;
+	left:20%;
+}
+.modalOk{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:50%;
+	left:37%;
+}
+.modalOk:hover{
+	cursor:pointer;
+}
+.modalOk:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+
+.modalNo{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:60%;
+	right:13%;
+	width : 35%;
+}
+.modalNo:hover{
+	cursor:pointer;
+}
+.modalNo:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+
+.tableSize:{
+	width: 92%;
+}
+.eventImgGacha
+{
+	position: absolute;
+	padding-bottom : 0%;
+	padding-left : 50.5%;
+	margin-top : -5%;
+
+}
+.eventGachaFrame
+{
+	position : relative;
+}

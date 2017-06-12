@@ -1,0 +1,160 @@
+﻿.eventButton {
+	width : 90%;
+	margin : 5% auto;
+}
+
+.eventRelative {
+	position : relative;
+}
+
+.eventPeriod {
+	position : absolute;
+	top : 75%;
+	left : 15%;
+}
+
+.eventItem {
+	background-image:url("../img/frame/sFrame3-1.png");
+	background-size:contain;
+	background-repeat : no-repeat;
+	position:relative;
+	padding-bottom: 33%;
+}
+
+.eventItemF {
+	background-image:url("../img/frame/gFrame3-1.png");
+	background-size:contain;
+	background-repeat : no-repeat;
+	position:relative;
+	padding-bottom: 33%;
+}
+
+.itemThumbnail {
+	position:absolute;
+	top:13%;
+	left:13%;
+	width:24.4%;
+}
+
+.itemName {
+	position:absolute;
+	color: #000000;
+	top: 25%;
+	left: 40%;
+}
+
+.exchangeNum {
+	position:absolute;
+	color: #000000;
+	top: 35%;
+	left: 40%;
+}
+
+.modalRelative {
+	position : relative;
+}
+
+.modalConfirm {
+	z-index:51;
+	display:none;
+	position:fixed;
+	background-image : url("../img/frame/rFrame03.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	margin: 0% 0% 0% 0%;
+	padding : 40% 50% 40% 50%;
+}
+
+.modalThumbnail {
+	position : absolute;
+	top : 10%;
+	left : 10%;
+	width : 30%;
+}
+
+.modalName {
+	color: #513933;
+	position : absolute;
+	top : 15%;
+	left : 40%;
+}
+
+.modalMaterial {
+	color: #513933;
+	position : absolute;
+	top : 30%;
+	left : 40%;
+}
+
+.textModal {
+	color: #513933;
+	position : absolute;
+	top : 50%;
+	left : 5%;
+	right : 0%;
+}
+
+.yesButton {
+	z-index:51;
+	position : absolute;
+	background-image : url("../img/btn/bGeneral01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 30%;
+	top : 60%;
+	left : 16%;
+}
+
+.yesButton:active {
+	background-image : url("../img/btn/bGeneral02.png");
+}
+
+.noButton {
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:60%;
+	right:13%;
+	width : 30%;
+}
+
+.noButton:active {
+	background-image : url("../img/btn/bGeneral02.png");
+}
+
+.modalResult {
+	position:fixed;
+	display:none;
+	z-index:51;
+	margin:0;
+	background-image:url("../img/frame/rFrame01.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:90%;
+}
+.resultRelative {
+	position:relative;
+	width:90%;
+	padding-bottom: 50%;
+	margin:0 auto;
+}
+.resultText{
+	position:absolute;
+	font-size:0.9em;
+	color: #513933;
+	top:25%;
+	left:20%;
+}
+.modalOk{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:50%;
+	left:37%;
+}
+.modalOk:hover{
+	cursor:pointer;
+}
+.modalOk:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}

@@ -1,0 +1,41 @@
+.dungeonSlider{
+	position:relative;
+	width: 100%;
+}
+.dungeonSlideSet{
+	position:absolute;
+}
+.dungeonSlide{
+	position: relative;
+	background-color: black;
+	width: 100%;
+	float: left;
+}
+.dungeonSlide:hover{
+	cursor:pointer;
+}
+.bgImg{
+	position: absolute;
+	left: 0;
+	top: 0;
+	transform-origin: left top;
+	z-index: 0;
+}
+.bgImgClone{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	transform-origin: left bottom;
+	z-index: 1;
+}
+
+span.pageLink:hover {
+	cursor:pointer;
+}
+
+.borderTest{
+	text-shadow: black 4px 4px 0px,
+				black -4px 4px 0px,
+				black 4px -4px 0px,
+				black -4px -4px 0px;
+}

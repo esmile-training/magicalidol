@@ -1,0 +1,41 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2017-05-12 09:42:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 09:42:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 09:42:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 10:07:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 10:07:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 10:07:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 14:30:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 14:30:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 14:30:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 16:36:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 16:36:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 16:36:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 16:40:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/memo/server"
+INFO - 2017-05-12 16:40:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 16:40:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 17:12:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 17:12:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 17:12:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 17:12:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/memo/server"
+INFO - 2017-05-12 17:12:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 17:12:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 17:56:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 17:56:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 17:56:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 17:56:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 17:56:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 17:56:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 17:57:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/memo/svn"
+INFO - 2017-05-12 17:57:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 17:57:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 17:58:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-05-12 17:58:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 17:58:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 17:58:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/memo/server"
+INFO - 2017-05-12 17:58:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 17:58:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-05-12 20:10:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/memo/svn"
+INFO - 2017-05-12 20:10:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-05-12 20:10:50 --> Fuel\Core\Request::execute - Setting main Request

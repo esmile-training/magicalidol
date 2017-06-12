@@ -1,0 +1,4 @@
+id	name	hitPoint	luckPoint	price	buyFlg	img	thumbnail	eventId
+1001	メイドドレス(黒)	35	50	10000	1	avatar/d/d1001.png	avatar/d/sd1001.png	1
+1002	メイドドレス(赤)	35	50	10000	1	avatar/d/d1002.png	avatar/d/sd1002.png	1
+1003	メイドドレス(白)	35	50	10000	1	avatar/d/d1003.png	avatar/d/sd1003.png	2

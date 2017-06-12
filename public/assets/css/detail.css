@@ -1,0 +1,50 @@
+.detail {
+	position:relative;
+	background-image: url("../img/top/text_waku03.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0px auto;
+	width: 90%;
+	padding-bottom: 150%;
+	}
+
+.news_contents {
+	/*margin: 10%;*/
+	}
+
+.start_view {
+	position: absolute;
+	font-size: 1em;
+	top:13%;
+	left:24%;
+	color: #513933;
+	width:50%;
+	text-align:right;
+	}
+
+.title_view {
+	position: absolute;
+	font-size: 1.2em;
+	font-weight: bold;
+	top:19%;
+	left:23%;
+	color: #513933;
+	width:55%;
+	text-align:center;
+	}
+
+.text_view {
+	position: absolute;
+	font-size: 0.8em;
+	top:26%;
+	left:20.0%;
+	color: #513933;
+	width:60.0%;
+	text-align:left;
+	word-wrap:break-word;
+	}
+	
+/* .picture_view{
+		
+	} */

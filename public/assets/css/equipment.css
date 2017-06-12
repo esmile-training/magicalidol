@@ -1,0 +1,207 @@
+﻿.equipment {
+	position:relative;
+	background-image:url("../img/frame/sFrame3-1.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:90%;
+	padding-bottom: 30%;
+	margin:0 auto;
+}
+div.equipment:hover {
+	cursor:pointer;
+}
+
+select {
+	font-size:1em;
+}
+
+.thumbnail {
+	position:absolute;
+	top:13%;
+	left:13%;
+	width:24%;
+}
+
+.name {
+	color:#513933;
+	position:absolute;
+	top:15%;
+	left:40%;
+}
+
+.status {
+	color:#513933;
+	position:absolute;
+	font-size:0.8em;
+	top:38%;
+	left:40%;
+}
+
+.status2 {
+	color: #513933;
+	position:absolute;
+	font-size:0.8em;
+	top:53%;
+	left:40%;
+}
+
+.skill {
+	color: #513933;
+	position:absolute;
+	font-size:0.8em;
+	top:53%;
+	left:40%;
+}
+
+.description {
+	color: #513933;
+	position:absolute;
+	font-size:0.8em;
+	top:68%;
+	left:40%;
+}
+
+table {
+	font-size:0.8em;
+	margin:1% auto;
+}
+
+span.link:hover {
+	cursor:pointer;
+}
+
+.modalConfirm {
+	position:fixed;
+	display:none;
+	z-index:51;
+	margin:0;
+	background-image:url("../img/frame/rFrame03.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:90%;
+}
+
+.modalRelative {
+	position:relative;
+	width:90%;
+	padding-bottom: 70%;
+	margin:0 auto;
+}
+
+.modalNowThumbnail {
+	position:absolute;
+	top:13%;
+	left:13%;
+	width:30%;
+}
+
+.modalNewThumbnail {
+	position:absolute;
+	top:13%;
+	right:13%;
+	width:30%;
+}
+
+.modalNowName{
+	position:absolute;
+	font-size:0.8em;
+	color: #513933;
+	text-align:center;
+	top:50%;
+	left:3%;
+	width:50%;
+}
+
+.modalNewName{
+	position:absolute;
+	font-size:0.8em;
+	color: #513933;
+	text-align:center;
+	top:50%;
+	right:3%;
+	width:50%;
+}
+
+.modalStatus{
+	position:absolute;
+	font-size:1.1em;
+	color: #513933;
+	top:58%;
+	left:22%;
+}
+
+.modalStatus2{
+	position:absolute;
+	font-size:1.1em;
+	color: #513933;
+	top:65%;
+	left:22%;
+}
+
+.modalYes{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:75%;
+	left:20%;
+}
+.modalYes:hover{
+	cursor:pointer;
+}
+.modalYes:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+
+.modalNo{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:75%;
+	right:20%;
+}
+.modalNo:hover{
+	cursor:pointer;
+}
+.modalNo:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+
+.modalSuccess {
+	position:fixed;
+	display:none;
+	z-index:51;
+	margin:0;
+	background-image:url("../img/frame/rFrame01.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:90%;
+}
+
+.successRelative {
+	position:relative;
+	width:90%;
+	padding-bottom: 50%;
+	margin:0 auto;
+}
+
+.successText{
+	position:absolute;
+	font-size:1.1em;
+	color: #513933;
+	top:30%;
+	left:27%;
+}
+
+.modalOk{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:50%;
+	left:37%;
+}
+.modalOk:hover{
+	cursor:pointer;
+}
+.modalOk:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}

@@ -1,0 +1,5 @@
+id	name	description	value	price	img
+1	キズぐすり	体力を20回復する	20	200	item/recovery/hp/medicine_01.png
+2	いいキズぐすり	体力を40回復する	40	400	item/recovery/hp/medicine_02.png
+3	すごいキズぐすり	体力を70回復する	70	700	item/recovery/hp/medicine_03.png
+4	まんたんのくすり	体力を100回復する	100	1200	item/recovery/hp/medicine_04.png

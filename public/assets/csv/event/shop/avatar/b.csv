@@ -1,0 +1,4 @@
+id	name	hitPoint	luckPoint	price	buyFlg	img	thumbnail	eventId
+1001	ガーターベルト(黒)	35	50	10000	1	avatar/b/b1001.png	avatar/b/sb1001.png	1
+1002	ガーターベルト(赤)	35	50	10000	1	avatar/b/b1002.png	avatar/b/sb1002.png	1
+1003	ガーターベルト(白)	35	50	10000	1	avatar/b/b1003.png	avatar/b/sb1003.png	2

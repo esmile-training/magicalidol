@@ -1,0 +1,29 @@
+id	type	words
+1	encEnm	[enemyName]か、萌えるぜ！
+2	winUsr	よし！　倒せたな。ところで、この[enemyName]、持って帰っていいか？
+3	winEnm	くっ、修行が足りなかったか。
+4	atkUsr	いくぞ！　[userName]の攻撃。
+5	atkEnm	[enemyName]の攻撃がくるぞ。耐えろ！
+6	dmgUsr	[enemyName]に[damage]ダメージを与えたぞ。
+7	dmgEnm	[userName]に[damage]ダメージだ。大丈夫か？
+8	avdUsr	よし！　攻撃を回避したぞ。
+9	avdEnm	くっ、回避されたか。
+10	advAtk	[userName]、ガンガン行くぞ！
+11	advDef	[userName]、ガードを固めて反撃に備えろ。
+12	advAvd	[userName]、相手をよく見ろ。避けきれない攻撃じゃないはずだ。
+13	itmUse	[userName]、アイテム「[itemName]」を使用するぜ。
+14	itmRcv	[userName]のHPが[recover]回復したぜ。
+15	itmAtk	戦闘中、[userName]の攻撃力が[value]倍になるぜ。
+16	itmDef	戦闘中、[userName]の防御力が[value]倍になるぜ。
+17	itmAvd	戦闘中、[userName]の回避力が[value]倍。
+18	sklUse	[userName]、「[skillName]」だ。
+19	skl01S	よし！　[enemyName]に[damage]ダメージを与えたぜ。
+20	skl01F	[skillName]を回避された。
+21	skl02S	[userName]の攻撃力が次のターンまで2倍になるぜ。
+22	skl02F	「[skillName]」は失敗した。
+23	skl03S	[enemyName]を倒したぜ。
+24	skl03F	「[skillName]」は失敗した。
+25	skl04S	やったな。[itemName]を[count]盗んだぜ。
+26	skl04F	「[skillName]」は失敗した。
+27	skl05S	よっしゃぁ！[enemyName]に[damage]ダメージと、こっちのHPが[recover]回復だぜ。
+28	skl05F	畜生！「[skillName]」が失敗したか。

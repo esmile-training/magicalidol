@@ -1,0 +1,33 @@
+.dungeonSlider{
+	position:relative;
+	width: 100%;
+	z-index: 10;
+}
+.dungeonSlideSet{
+	position:absolute;
+	z-index: 10;
+}
+.dungeonSlide{
+	position: relative;
+	background-color: black;
+	width: 100%;
+	float: left;
+	z-index: 10;
+}
+.dungeonSlide:hover{
+	cursor:pointer;
+}
+.bgImg{
+	position: absolute;
+	left: 0;
+	top: 0;
+	transform-origin: left top;
+	z-index: 10;
+}
+.bgImgClone{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	transform-origin: left bottom;
+	z-index: 11;
+}

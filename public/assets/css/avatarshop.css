@@ -1,0 +1,177 @@
+﻿.avatar {
+	position : relative;
+	background-image : url("../img/frame/sFrame3-1.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 80%;
+	padding-bottom: 26.6%;
+	margin : 0 auto;
+}
+.eventavatar {
+	position : relative;
+	background-image : url("../img/frame/eventFrame3-1.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 80%;
+	padding-bottom: 26.6%;
+	margin : 0 auto;
+}
+.cannotBuy {
+	position : relative;
+	background-image : url("../img/frame/gFrame3-1.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 80%;
+	padding-bottom: 26.6%;
+	margin : 0 auto;
+}
+
+div.thumbnail {
+	position : relative;
+}
+
+.thumbnail {
+	position : absolute;
+	top : 14%;
+	left : 13%;
+	width : 24%;
+}
+
+.modalThumbnail {
+	position : absolute;
+	top : 14%;
+	left : 13%;
+	width : 30%;
+}
+
+.name {
+	color: #513933;
+	position : absolute;
+	top : 15%;
+	left : 40%;
+}
+
+.nameModal {
+	color: #513933;
+	position : absolute;
+	top : 15%;
+	left : 45%;
+	font-size : 1.6em;
+}
+
+.status {
+	color: #513933;
+	position : absolute;
+	font-size : 0.6em;
+	top : 38%;
+	left : 40%;
+}
+
+.price {
+	color: #683933;
+	position : absolute;
+	top : 55%;
+	left : 40%;
+}
+
+.confirmStatus {
+	color: #513933;
+	position : absolute;
+	font-size : 0.6em;
+	top : 20%;
+	left : 40%;
+}
+
+.avatarConfirm {
+	z-index:51;
+	display:none;
+	position:fixed;
+	margin:0;
+	padding: 40% 58% 40% 42%;
+	background-image : url("../img/frame/rFrame03.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	margin: 0% 5% 5% 5%;
+}
+
+.avatarp{
+	color: #ffffff;
+}
+
+.pstatus {
+	color: #513933;
+	font-size : 0.7em;
+}
+
+.text {
+	z-index:51;
+	position : absolute;
+	background-image : url("../img/btn/bGeneral01.png");
+	background-size : contain;
+	background-repeat : no-repeat;
+	width : 35%;
+	top : 60%;
+	left : 16%;
+}
+
+.text:active {
+	background-image : url("../img/btn/bGeneral02.png");
+}
+
+.modalNo{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:60%;
+	right:13%;
+	width : 35%;
+}
+.modalNo:hover{
+	cursor:pointer;
+}
+.modalNo:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+.modalResult {
+	position:fixed;
+	display:none;
+	z-index:51;
+	margin:0;
+	background-image:url("../img/frame/rFrame01.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	width:90%;
+}
+.resultRelative {
+	position:relative;
+	width:90%;
+	padding-bottom: 50%;
+	margin:0 auto;
+}
+.resultText{
+	position:absolute;
+	font-size:0.9em;
+	color: #513933;
+	top:25%;
+	left:20%;
+}
+.modalOk{
+	position:absolute;
+	background-image:url("../img/btn/bGeneral01.png");
+	background-size:contain;
+	top:50%;
+	left:37%;
+}
+.modalOk:hover{
+	cursor:pointer;
+}
+.modalOk:active{
+	background-image:url("../img/btn/bGeneral02.png");
+}
+
+.soldout {
+	z-index:1;
+	position:absolute;
+	top:2%;
+	left:12%;
+}

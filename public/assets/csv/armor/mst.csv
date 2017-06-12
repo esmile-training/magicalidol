@@ -1,0 +1,7 @@
+id	name	grade	status	price	img
+1	木の鎧	1	10	200	armor/a01.png
+2	石の鎧	2	40	400	armor/a02.png
+3	鉄の鎧	3	70	800	armor/a03.png
+4	銅の鎧	4	100	1600	armor/a04.png
+5	銀の鎧	5	130	3200	armor/a05.png
+6	金の鎧	6	160	10000	armor/a06.png

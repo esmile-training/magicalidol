@@ -1,0 +1,7 @@
+id	name	skillId	grade	img	boyimg
+1	木の鎌	3	1	weapon/3/w301.png	weapon/boy3/boy_sickle_wood.png
+2	石の鎌	3	2	weapon/3/w302.png	weapon/boy3/boy_sickle_stone.png
+3	鉄の鎌	3	3	weapon/3/w303.png	weapon/boy3/boy_sickle_iron.png
+4	銅の鎌	3	4	weapon/3/w304.png	weapon/boy3/boy_sickle_copper.png
+5	銀の鎌	3	5	weapon/3/w305.png	weapon/boy3/boy_sickle_silver.png
+6	金の鎌	3	6	weapon/3/w306.png	weapon/boy3/boy_sickle_gold.png

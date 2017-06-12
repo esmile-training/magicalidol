@@ -31,6 +31,7 @@ Fuel::init('config.php');
 //URL定数
 $script_path_array = explode('/', $_SERVER["SCRIPT_NAME"]);
 define('ENVIRONMENT', $script_path_array[1]);
+define('DOMAIN_URL', 'http://'.$_SERVER['SERVER_NAME'].'/');
 define('CONTENTS_URL', 'http://'.$_SERVER['SERVER_NAME'].'/'.ENVIRONMENT.'/');	//URL
 define('ADMIN_URL', CONTENTS_URL.'admin/');
 define('IMG_URL', CONTENTS_URL.'public/assets/img/');

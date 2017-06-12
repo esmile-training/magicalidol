@@ -8,4 +8,3 @@
 </head>
 <body>
 	<div id="main">
-	<div>header読み込み</div>

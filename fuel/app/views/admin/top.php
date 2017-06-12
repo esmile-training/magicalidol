@@ -1,8 +1,4 @@
-<!-- 入力フォーム -->
-<form method="post" action="<?= CONTENTS_URL.'top' ?>" >
-	userId<input type='text' name='userId'>
-	<input type='submit'  value="ゲーム開始">
-</form>
+<div><a href="<?= DOMAIN_URL.'home' ?>" >ホーム画面</a></div>
 <div style="margin:10px; text-align:left" >
 	<div>
 		◆開発メモ

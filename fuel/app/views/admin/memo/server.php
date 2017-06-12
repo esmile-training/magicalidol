@@ -117,19 +117,3 @@
 </table>
 
 
-<h1>社内共有サーバ</h1>
-<table border=1>
-	<tr>
-		<td>
-			PHP研修
-		</td>
-		<td>
-			\\192.168.62.41\social\インフラ教育用\101_sys用研修\PHP研修
-		</td>
-	</tr>
-</table>
-
-<h1>環境構成図</h1>
-<div style="margin:20px">
-	<?= Asset::img( 'admin/memo/kankyou.png'); ?>
-</div>

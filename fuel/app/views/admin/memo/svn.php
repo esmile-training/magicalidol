@@ -85,17 +85,4 @@
 ・ただし、ブラウザで動作させるためには、DBの設定とDBを最新に保つ必要があるので、かなり面倒くさい。<br />
 →ローカルリポジトリでソースを作成して、サーバリポジトリにコピーして動作確認するのが推奨。<br />
 
-<h3>TortoiseSVN設定</h3>
-・SSH設定<br />
-右クリック＞TortoiseSVN＞設定　ネットワーク＞SSH＞SSHクライアンント<br />
-"C:\Program Files\TortoiseSVN\bin\TortoisePlink.exe" -l esmile-sys -pw esmile00<br />
-※TortoiseSVNをインストールしたフォルダを指定。<br />
-<div>
-	<?= Asset::img( 'admin/memo/tortoisesvn00.png'); ?>
-</div>
-<br />
-・チェックアウト<br />
-・チェックアウト先のディレクトリは、作成するフォルダを指定。
-<div>
-	<?= Asset::img( 'admin/memo/tortoisesvn01.png'); ?>
-</div>
+

@@ -1,7 +1,7 @@
 <?php
 class Lib_Contents extends Controller
 {
-	
+	/*
 	public function __construct()
 	{
 		//セッションからuser_id取ってくる
@@ -92,10 +92,6 @@ class Lib_Contents extends Controller
 		}
 		
 		//HP、APの時間経過による回復
-		/** 
-			第1引数(回復させるステータス)：1→HP、2→AP
-			第2引数(回復させる間隔)：分単位
-		*/
 		$ModelUser->recoverByTime(1,5);
 		$ModelUser->recoverByTime(2,3);
 		
@@ -105,7 +101,7 @@ class Lib_Contents extends Controller
 		unset($ModelAvatar);
 		unset($ModelUser);
 		unset($ModelDb);
-	}
+	}*/
 	
 	/*
 	  連想配列をキーでソート

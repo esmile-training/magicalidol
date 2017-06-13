@@ -15,8 +15,7 @@ namespace Fuel\Core;
 class Model
 {
 
-	public function __construct( $user ){
-		$this->user = $user;
+	public function __construct(){
 		$this->nowTime=(is_null($this->user['currentTime']) )?date("Y-m-d H:i:s"):$this->user['currentTime'];
 	}
 

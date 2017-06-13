@@ -255,7 +255,6 @@ class Asset_Instance
 							{
 								continue;
 							}
-
 							throw new \FuelException('Could not find asset: '.$filename);
 						}
 					}

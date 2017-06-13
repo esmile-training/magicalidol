@@ -1,0 +1,963 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2017-06-13 09:48:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-13 09:48:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:48:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 09:48:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "favicon"
+INFO - 2017-06-13 09:48:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:48:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 09:48:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-13 09:48:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:48:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 09:48:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 09:48:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:48:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 09:59:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 09:59:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:59:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 09:59:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 09:59:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:59:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 09:59:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 09:59:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:59:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 09:59:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 09:59:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 09:59:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:00:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:00:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:00:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:00:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:00:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:00:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:00:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:00:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:00:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:00:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:00:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:00:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:00:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:00:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:00:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:00:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:00:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:00:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:01:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:01:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:01:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:01:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:01:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:01:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:01:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:01:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:01:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:01:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:01:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:01:33 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 10:01:33 --> Warning - in_array() expects parameter 2 to be array, boolean given in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 12
+INFO - 2017-06-13 10:02:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:02:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:02:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:02:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:02:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:02:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:03:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:03:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:03:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:18:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "share"
+INFO - 2017-06-13 10:18:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:18:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:18:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-13 10:18:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:18:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:32:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:32:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:32:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 10:41:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 10:41:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 10:41:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:11:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:11:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:11:32 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:11:32 --> Warning - Missing argument 1 for Fuel\Core\Model::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 8 and defined in /vagrant/magicalidol/fuel/core/classes/model.php on line 18
+INFO - 2017-06-13 11:12:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:12:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:12:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:14:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:14:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:14:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:25:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:25:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:25:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:28:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:28:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:28:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:28:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:28:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:28:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:28:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:40:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:40:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:40:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:40:18 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 2
+INFO - 2017-06-13 11:40:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:40:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:40:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:40:55 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 2
+INFO - 2017-06-13 11:40:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:40:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:40:56 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:40:56 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 2
+INFO - 2017-06-13 11:41:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:41:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:41:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:41:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:41:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:41:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:41:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:41:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:41:33 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:41:33 --> Fatal Error - Class 'Model_' not found in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 12
+INFO - 2017-06-13 11:42:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:42:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:42:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:43:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:43:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:43:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 11:44:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:44:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:44:25 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:44:25 --> Fatal Error - Class '\Model\User' not found in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 13
+INFO - 2017-06-13 11:45:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:45:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:45:01 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:45:01 --> Fatal Error - Class '\Model\User' not found in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 13
+INFO - 2017-06-13 11:45:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:45:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:45:09 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:45:09 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 11:45:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:45:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:45:27 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:45:27 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 11:45:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:45:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:45:28 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:45:28 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 11:46:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:46:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:46:42 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:46:42 --> Notice - Undefined property: Model_User::$test in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 14
+INFO - 2017-06-13 11:47:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:47:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:47:38 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:47:38 --> Notice - Undefined property: Model_User::$test in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 14
+INFO - 2017-06-13 11:47:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:47:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:47:40 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 11:47:40 --> Notice - Undefined property: Model_User::$test in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 14
+INFO - 2017-06-13 11:48:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 11:48:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 11:48:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:26:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:26:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:26:00 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 12:26:00 --> Warning - Missing argument 1 for Fuel\Core\Model::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/core/classes/model.php on line 18
+INFO - 2017-06-13 12:28:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:28:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:28:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 12:28:15 --> Warning - Missing argument 1 for Fuel\Core\Model::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/core/classes/model.php on line 18
+INFO - 2017-06-13 12:28:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:28:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:28:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 12:28:16 --> Warning - Missing argument 1 for Fuel\Core\Model::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/core/classes/model.php on line 18
+INFO - 2017-06-13 12:28:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:28:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:28:51 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 12:28:51 --> Warning - Missing argument 1 for Fuel\Core\Model::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/core/classes/model.php on line 18
+INFO - 2017-06-13 12:28:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:28:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:28:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 12:28:52 --> Warning - Missing argument 1 for Fuel\Core\Model::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/core/classes/model.php on line 18
+INFO - 2017-06-13 12:29:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:29:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:29:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:29:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:29:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:29:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:30:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:30:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:30:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:30:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:30:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:30:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:33:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:33:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:33:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:37:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:37:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:37:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:37:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:37:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:37:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:37:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:37:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:37:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:41:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:41:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:41:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:41:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:41:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:41:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:43:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-13 12:43:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:43:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:45:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/memo/fuel"
+INFO - 2017-06-13 12:45:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:45:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:45:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:45:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:45:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:45:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:45:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:45:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:45:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 12:45:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:45:12 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 12:45:12 --> Notice - Undefined property: Controller_Mypage::$userData in /vagrant/magicalidol/fuel/app/classes/controller/mypage.php on line 11
+INFO - 2017-06-13 12:56:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 12:56:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:56:27 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 12:56:27 --> Notice - Undefined property: Controller_Mypage::$userData in /vagrant/magicalidol/fuel/app/classes/controller/mypage.php on line 11
+INFO - 2017-06-13 12:57:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 12:57:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:57:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:58:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 12:58:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:58:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:58:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 12:58:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:58:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:58:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 12:58:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:58:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:58:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 12:58:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:58:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 12:59:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 12:59:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 12:59:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:00:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 13:00:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:00:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:35:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 13:35:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:35:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:35:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 13:35:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:35:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:43:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 13:43:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:43:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:43:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 13:43:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:43:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:43:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 13:43:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:43:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 13:43:55 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 1
+INFO - 2017-06-13 13:44:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 13:44:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:44:42 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 13:44:42 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 1
+INFO - 2017-06-13 13:54:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 13:54:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:54:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 13:54:30 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 1
+INFO - 2017-06-13 13:55:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 13:55:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:55:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 13:55:13 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 1
+INFO - 2017-06-13 13:55:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 13:55:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:55:14 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 13:55:14 --> Notice - Undefined variable: user in /vagrant/magicalidol/fuel/app/views/home/top.php on line 1
+INFO - 2017-06-13 13:59:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 13:59:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:59:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:59:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 13:59:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:59:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:59:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 13:59:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:59:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 13:59:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 13:59:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 13:59:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:01:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 14:01:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:01:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:01:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:01:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:01:53 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:01:53 --> Error - The requested view could not be found: mypage/top in /vagrant/magicalidol/fuel/core/classes/view.php on line 388
+INFO - 2017-06-13 14:01:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:01:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:01:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:02:00 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:02:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 14:02:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:02:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:02:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:02:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:02:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:02:03 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:07:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:07:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:07:21 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:07:21 --> Error - Could not find asset: icons/myicon.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:12:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:12:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:12:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:12:30 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:12:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:12:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:12:44 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:12:44 --> Error - Could not find asset: img/img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:14:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:14:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:14:21 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:14:21 --> Fatal Error - Call to undefined method Fuel\Core\Asset::img_dir() in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "img/img1"
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:17:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:17:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:17:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:17:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:19:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:19:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:19:37 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:19:37 --> Fatal Error - Call to undefined method Fuel\Core\Asset::paths() in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 14:21:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:21:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:21:17 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:21:17 --> Error - Could not find asset: css/mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:24:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:24:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:24:58 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:24:58 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:30:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:30:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:30:32 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:30:32 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:30:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:30:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:30:34 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:30:34 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:36:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:36:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:36:12 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:36:12 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:40:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:40:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:40:22 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:40:22 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:42:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:42:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:42:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:42:03 --> Fatal Error - Call to undefined method Fuel\Core\Asset::img_dir() in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 14:42:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:42:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:42:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:42:29 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:42:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:42:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:42:35 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:42:35 --> Error - Could not find asset: img/img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:42:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:42:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:42:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:42:41 --> Error - Could not find asset: /img/img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:42:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:42:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:42:50 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:42:50 --> Error - Could not find asset: /img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:49:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:49:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:49:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 14:49:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:49:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:49:47 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:49:47 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:54:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:54:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:54:56 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:54:56 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:54:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:54:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:54:57 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:54:57 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:56:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:56:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:56:05 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:56:05 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:58:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:58:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:58:27 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:58:27 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:58:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:58:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:58:28 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:58:28 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 14:58:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 14:58:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 14:58:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 14:58:29 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:01:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:01:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:01:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:01:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:01:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:01:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:01:52 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:02:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:02:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:02:27 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:02:27 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:02:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:02:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:02:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:02:29 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:02:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:02:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:02:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:03:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:03:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:03:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:03:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:03:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:03:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:03:13 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:04:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:04:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:04:12 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:04:12 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:04:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:04:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:04:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:04:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:04:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:04:51 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:04:51 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:05:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:05:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:05:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:05:40 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:05:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:05:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:05:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:05:41 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:05:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:05:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:05:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:05:52 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:07:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:07:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:07:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:07:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:07:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:07:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:07:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "public/asset/css/mypage"
+INFO - 2017-06-13 15:07:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:07:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:07:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-13 15:07:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:07:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:08:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "public/assets/css/mypage"
+INFO - 2017-06-13 15:08:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:08:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:08:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-13 15:08:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:08:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:09:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "public/assets/css/mypage"
+INFO - 2017-06-13 15:09:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:09:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:09:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-13 15:09:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:09:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:09:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:09:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:09:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:10:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:10:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:10:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:10:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:10:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:10:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:10:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:10:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:10:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:10:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:10:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:10:36 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:10:36 --> Error - Could not find asset: mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 261
+INFO - 2017-06-13 15:10:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:10:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:10:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:12:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:12:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:12:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:13:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:13:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:13:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:13:02 --> Error - Could not find asset: css/mypage.css in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 260
+INFO - 2017-06-13 15:15:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:15:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:15:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "public/assets/img/img1"
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:16:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:16:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:16:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:16:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:16:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:16:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:16:54 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:16:54 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:17:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:17:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:17:01 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:17:01 --> Parsing Error - syntax error, unexpected 'exit' (T_EXIT) in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 15:17:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:17:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:17:09 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:17:09 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:17:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:17:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:17:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:17:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:17:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:17:37 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:17:37 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:17:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:17:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:17:53 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:17:53 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:18:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:18:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:18:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:20:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:20:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:20:01 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:20:01 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 260
+INFO - 2017-06-13 15:20:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:20:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:20:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:20:13 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 261
+INFO - 2017-06-13 15:20:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:20:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:20:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:20:13 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 261
+INFO - 2017-06-13 15:20:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:20:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:20:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:20:30 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:20:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:20:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:20:43 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:20:43 --> Notice - Undefined variable: file in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 245
+INFO - 2017-06-13 15:20:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:20:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:20:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:21:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:21:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:21:08 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:21:08 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:21:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:21:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:21:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:21:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:21:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:21:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:21:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:21:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:21:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:21:59 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 259
+INFO - 2017-06-13 15:22:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:22:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:22:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:22:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:22:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:22:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:23:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:23:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:23:21 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:23:21 --> Notice - Undefined variable: row in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 247
+INFO - 2017-06-13 15:23:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:23:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:23:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:25:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:25:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:25:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:25:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:25:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:25:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:25:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:25:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:25:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:25:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:25:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:25:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:26:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:26:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:26:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:26:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:26:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:26:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:27:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:27:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:27:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:27:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:27:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:27:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:27:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:27:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:27:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:28:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:28:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:28:28 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:28:28 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 15:29:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:29:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:29:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:29:16 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 15:30:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:30:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:30:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:32:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:32:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:32:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:35:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:35:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:35:38 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:35:38 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 15:35:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:35:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:35:44 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:35:44 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 15:35:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:35:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:35:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 15:35:45 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 15:54:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:54:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:54:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 15:55:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 15:55:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 15:55:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 17:47:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-13 17:47:30 --> Parsing Error - syntax error, unexpected '}' in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 42
+INFO - 2017-06-13 17:50:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:50:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:50:44 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 17:50:44 --> Fatal Error - Call to undefined method Model_Basegame::exec() in /vagrant/magicalidol/fuel/app/classes/controller/mypage.php on line 8
+INFO - 2017-06-13 17:51:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:51:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:51:00 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 17:51:00 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 17:51:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:51:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:51:20 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 17:51:20 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 17:51:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 17:51:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:51:36 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 17:51:36 --> Fatal Error - Call to undefined method Model_Basegame::exec() in /vagrant/magicalidol/fuel/app/classes/controller/home.php on line 8
+INFO - 2017-06-13 17:51:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 17:51:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:51:54 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 17:51:54 --> Notice - Undefined variable: modelData in /vagrant/magicalidol/fuel/app/views/home/top.php on line 2
+INFO - 2017-06-13 17:52:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 17:52:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:52:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 17:52:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:52:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:52:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 17:52:04 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 17:54:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:54:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:54:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 17:54:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:54:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:54:08 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 17:54:08 --> Error - Could not find asset: img1.png in /vagrant/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-13 17:55:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:55:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:55:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 17:55:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-13 17:55:43 --> Parsing Error - syntax error, unexpected 'foreach' (T_FOREACH) in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 33
+INFO - 2017-06-13 17:55:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 17:55:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 17:55:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:04:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:04:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:04:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:04:15 --> Warning - Creating default object from empty value in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 25
+INFO - 2017-06-13 18:04:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:04:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:04:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:11:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:11:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:11:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:11:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 18:11:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:11:38 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:11:38 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 18:12:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 18:12:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:12:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:12:39 --> Warning - Missing argument 1 for Fuel\Core\Model::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/core/classes/model.php on line 18
+INFO - 2017-06-13 18:13:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 18:13:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:13:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:13:29 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 18:14:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 18:14:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:14:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:14:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 18:14:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:14:57 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:14:57 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 18:15:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 18:15:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:15:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:15:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:15:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:15:53 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:15:53 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 18:16:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:16:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:16:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:16:13 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 18:16:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:16:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:16:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:16:19 --> Notice - Undefined variable: commonData in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 29
+INFO - 2017-06-13 18:16:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:16:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:16:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:16:30 --> Error - Object class "Model_User" could not be converted to string or sanitized as ArrayAccess. Whitelist it in security.whitelisted_classes in app/config/config.php to allow it to be passed unchecked. in /vagrant/magicalidol/fuel/core/classes/security.php on line 283
+INFO - 2017-06-13 18:18:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:18:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:18:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:18:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:18:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:18:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:18:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:18:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:18:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:20:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:20:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:20:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:20:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:20:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:20:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:21:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:21:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:21:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:23:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:23:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:23:08 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:23:08 --> Fatal Error - Call to undefined method Controller_Mypage::Model() in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 29
+INFO - 2017-06-13 18:23:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:23:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:23:54 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:23:54 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:23:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:23:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:23:56 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:23:56 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:24:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:24:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:24:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:24:30 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:24:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:24:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:24:31 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:24:31 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:27:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-13 18:27:25 --> Parsing Error - syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 29
+INFO - 2017-06-13 18:27:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:27:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:27:47 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:27:47 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:27:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:27:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:27:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:27:55 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:29:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:29:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:29:40 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:29:40 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:29:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:29:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:29:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:29:41 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:29:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:29:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:29:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:29:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:29:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:29:44 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:29:44 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+ERROR - 2017-06-13 18:29:44 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:29:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:29:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:29:58 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:29:58 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:29:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:29:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:29:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:29:59 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:30:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:30:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:30:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:30:13 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:30:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:30:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:30:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:30:19 --> Warning - Missing argument 1 for Model_Basegame::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 10 and defined in /vagrant/magicalidol/fuel/app/classes/model/basegame.php on line 6
+INFO - 2017-06-13 18:30:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:30:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:30:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:33:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:33:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:33:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:33:39 --> Runtime Notice - Accessing static property Model_Basegame::$user as non static in /vagrant/magicalidol/fuel/core/classes/model.php on line 19
+INFO - 2017-06-13 18:33:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:33:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:33:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:35:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:35:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:35:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:36:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:36:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:36:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:36:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:36:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:36:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:37:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:37:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:37:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:41:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:41:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:41:05 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:41:05 --> Warning - Missing argument 1 for Model_User::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 27 and defined in /vagrant/magicalidol/fuel/app/classes/model/user.php on line 4
+INFO - 2017-06-13 18:41:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:41:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:41:17 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:41:17 --> Warning - Missing argument 1 for Model_User::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 27 and defined in /vagrant/magicalidol/fuel/app/classes/model/user.php on line 6
+INFO - 2017-06-13 18:41:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:41:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:41:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:41:18 --> Warning - Missing argument 1 for Model_User::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 27 and defined in /vagrant/magicalidol/fuel/app/classes/model/user.php on line 6
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:41:19 --> Warning - Missing argument 1 for Model_User::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 27 and defined in /vagrant/magicalidol/fuel/app/classes/model/user.php on line 6
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:41:19 --> Warning - Missing argument 1 for Model_User::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 27 and defined in /vagrant/magicalidol/fuel/app/classes/model/user.php on line 6
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:41:19 --> Warning - Missing argument 1 for Model_User::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 27 and defined in /vagrant/magicalidol/fuel/app/classes/model/user.php on line 6
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:41:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:41:19 --> Warning - Missing argument 1 for Model_User::__construct(), called in /vagrant/magicalidol/fuel/app/classes/controller/basegame.php on line 27 and defined in /vagrant/magicalidol/fuel/app/classes/model/user.php on line 6
+INFO - 2017-06-13 18:42:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:42:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:42:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:42:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-13 18:42:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:42:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:42:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:42:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:42:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:45:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:45:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:45:25 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:45:25 --> Notice - Use of undefined constant ‘width’＝ - assumed '‘width’＝' in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 18:45:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:45:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:45:57 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:45:57 --> Notice - Array to string conversion in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 18:46:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:46:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:46:37 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:46:38 --> Notice - Array to string conversion in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 18:46:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:46:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:46:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-13 18:46:41 --> Notice - Array to string conversion in /vagrant/magicalidol/fuel/app/views/mypage.php on line 1
+INFO - 2017-06-13 18:48:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:48:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:48:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:48:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:48:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:48:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-13 18:48:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-13 18:48:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-13 18:48:51 --> Fuel\Core\Request::execute - Setting main Request

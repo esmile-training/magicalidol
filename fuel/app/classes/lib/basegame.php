@@ -5,4 +5,9 @@ class Lib_BaseGame
 	{
 		
 	}
+	
+	public function exec()
+	{
+		return 'BaseGameLib Loading...';
+	}
 }

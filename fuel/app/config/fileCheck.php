@@ -2,5 +2,5 @@
 
 return array(
 	'top',
-	'home'
+	'home',
 );

@@ -12,11 +12,11 @@
 
 namespace Fuel\Core;
 
-class Model
+class Model extends \Orm\Model
 {
 
 	public function __construct(){
-		$this->nowTime=(is_null($this->user['currentTime']) )?date("Y-m-d H:i:s"):$this->user['currentTime'];
+		//$this->nowTime=(is_null($this->user['currentTime']) )?date("Y-m-d H:i:s"):$this->user['currentTime'];
 	}
 
 }

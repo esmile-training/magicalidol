@@ -21,17 +21,18 @@ class Controller_Basegame extends Controller
 		}
 	
 		// 仮置き
-		$userId = 1;
+		$userId = 1234;
 
 		// ユーザー情報取得
-		$userModel = new Model_User();
+		/*$userModel = new Model_User();
 		$commonData['user'] =  $userModel->getById($userId);
-		$this->Model->user = $commonData['user'];
+		
+		$this->Model->user = $commonData['user'];*/
 		
 		// 汎用変数セット
-		foreach( $commonData as $key => $val )
-		{
-			$this->viewData[$key] = $this->$key = $val;   
-		}
+//		foreach( $commonData as $key => $val )
+//		{
+//			$this->viewData[$key] = $this->$key = $val;   
+//		}
 	}
 }

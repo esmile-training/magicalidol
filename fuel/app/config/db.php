@@ -17,7 +17,7 @@ return array(
 	    'connection'     => array(
 	        'hostname'       => 'mysql300.db.sakura.ne.jp',
 	        'port'           => '3306',
-	        'database'       => 'esmile-sys_db',
+	        'database'       => 'esmile-sys_magicalidol',
 	        'username'       => 'esmile-sys',
 	        'password'       => 'esmile00',
 	        'persistent'     => false,
@@ -36,7 +36,7 @@ return array(
 	    'connection'     => array(
 	        'hostname'       => 'mysql300.db.sakura.ne.jp',
 	        'port'           => '3306',
-	        'database'       => 'esmile-sys_admin',
+	        'database'       => 'esmile-sys_magicalidol',
 	        'username'       => 'esmile-sys',
 	        'password'       => 'esmile00',
 	        'persistent'     => false,

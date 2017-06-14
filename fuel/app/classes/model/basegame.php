@@ -3,87 +3,27 @@ class Model_Basegame extends Model
 {
 	public  $user;
 	
+	/*
+	 * modelのインスタンス化
+	 */
 	public function newIns($modelName)
 	{
 		$modelName = 'Model_' . $modelName;
+		
+		// 各モデルのuserDataにユーザー情報を渡す。
+		$this->model = new $modelName();
+		$this->model->userData = $this->user;
 		return new $modelName($this->user);
 	}
 
 	/*
 	 * SELECT
 	 */
-	public function select( $sql, $range = 'all' )
+	public function select($sql)
 	{
-		$response = $this->dbapi($sql, 'select');
-		//jsonから配列に変換
-		$result = json_decode($response, true);
-		if($result)
-		{
-			if( is_null($result) )
-			{
-			return array();
-			}
-			else if( $range == 'all' )
-			{
-			return $result;
-			}
-			else if( $range == 'first' &&  isset($result[0]) )
-			{
-			return $result[0];
-			}
-			else
-			{
-			return $result;
-			}
-		}
-		else
-		{
-//			print( $response.'<br>' );
-			\Log::error('Showing user profile for user: '.$response);
-		}
+		$sql->execute();
 	}
 	
-	/*
-	 * charaUpdate
-	 */
-	public function charaUpdate($sql)
-	{
-		$this->dbapi($sql, 'update');
-	}
-	
-	/*
-	 * UPDATE
-	 */
-	public function update( $sql )
-	{
-		$result = $this->dbapi($sql, 'update');
-		// SQLの実行
-
-		BaseGameModel::StatusUpdate($sql);
-		return $result;
-	}
-
-	/*
-	 * DELETER
-	 */
-	public function delete( $sql )
-	{
-		$result = $this->dbapi($sql, 'delete');
-		// SQLの実行
-		BaseGameModel::StatusUpdate($sql);
-		return $result;
-	}
-
-	/*intval($str)
-	 * INSERT
-	 */
-	public function insert( $sql )
-	{
-		$result = $this->dbapi($sql, 'insert');
-		// SQLの実行
-		BaseGameModel::StatusUpdate($sql);
-		return intval($result);
-	}
 	
 	/*
 	 * API実行

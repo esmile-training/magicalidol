@@ -1,5 +1,4 @@
 <?php
-use \Model\User;
 
 class Controller_Mypage extends Controller_Basegame
 {
@@ -12,14 +11,15 @@ class Controller_Mypage extends Controller_Basegame
 		$this->viewData['modelData'] = $modelUser->getData('id');
 		*/
 
-		$shop_data = User::find('first',  array(
-			'where' => array(
-				array('id', 1)
-			)
-		));
-		
-		var_dump($shop_data);exit;
-		
+		//データの整理
+		$data=array(
+		'id'=>2,
+		'name'=>'user2'
+		);
+		//モデルのインスタンス化
+		$new=Model_User::forge($data);
+		//データの保存
+		$new->save();
 		
 		// ヘッダーフッター付きのページを表示
 		View_Wrap::admin('mypage', $this->viewData);

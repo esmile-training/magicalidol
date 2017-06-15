@@ -78,6 +78,7 @@ class Database_MySQLi_Connection extends \Database_Connection
 
 		try
 		{
+			
 			if ($socket != '')
 			{
 				$port   = null;
@@ -132,7 +133,14 @@ class Database_MySQLi_Connection extends \Database_Connection
 			// No connection exists
 			$this->_connection = null;
 
-			throw new \Database_Exception('No MySQLi Connection', 0);
+			throw new \Database_Exception('No MySQLi Connection<br>\n'
+                . $e->getMessage() . "<br>\n"
+                . "hostname:" . $hostname . "<br>\n"
+                . "username:" . $username . "<br>\n"
+                . "password:" . $password . "<br>\n"
+                . "database:" . $database . "<br>\n"
+                . "port:" . $port . "<br>\n"
+                , 0);
 		}
 
 		// \xFF is a better delimiter, but the PHP driver uses underscore

@@ -51,8 +51,10 @@ return array(
 	),
 
 	'redis' => array(
+		'type'           => 'mysqli',
+		'table_prefix'   => '',
 		'default' => array(
-			'hostname'  => '127.0.0.1',
+			'hostname'  => '192.168.33.10',
 			'port'      => 6379,
 			'timeout'	=> null,
 		)

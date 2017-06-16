@@ -1,4 +1,4 @@
-<div><a href="<?= DOMAIN_URL.'home' ?>" >ホーム画面</a></div>
+<div><a href="<?= CONTENTS_URL.'home' ?>" >ホーム画面</a></div>
 <div style="margin:10px; text-align:left" >
 	<div>
 		◆開発メモ

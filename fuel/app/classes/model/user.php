@@ -10,5 +10,18 @@ class Model_User extends Model_Basegame
 		'id',
 		'name',
 	);
+	
+	/**********************************
+	* リレーション：一対多
+	*/
+	protected static $_has_many = array(
+		'uShop' => array(
+			'model_to' => 'Model_UShop',
+			'key_from' => 'id',
+			'key_to' => 'userId',
+			'cascade_save' => false,
+			'cascade_delete' => false,
+		),
+	);
 
 }

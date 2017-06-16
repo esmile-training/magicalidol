@@ -32,7 +32,7 @@ return array(
 	 *
 	 * Paths specified here are suffixed with the sub-folder paths defined below.
 	 */
-	'paths' => array('assets/'),
+	'paths' => array('public/assets/'),
 
 	/**
 	 * Asset Sub-folders

@@ -4,24 +4,32 @@ class Controller_Mypage extends Controller_Basegame
 {
 	public function action_index()
 	{
-		// インスタンス化
+		// ライブラリをインスタンス化
 		$this->viewData['libData'] = $this->Lib->exec();
-		/*
-		$modelUser = $this->Model->newIns('User');
-		$this->viewData['modelData'] = $modelUser->getData('id');
-		*/
+		
 
 		//データの整理
 		$data=array(
-		'id'=>2,
-		'name'=>'user2'
+			'name'=>'user3'
 		);
-		//モデルのインスタンス化
-		$new=Model_User::forge($data);
-		//データの保存
-		$new->save();
+		
+		
+		//モデルのインスタンス化(insert)
+		//$new=Model_User::forge($data)->save();
+		
+		
+		//
+		$select=DB::query('SELECT * FROM `user` WHERE `name` = "user3"')->as_object('Model_User')->execute();
+		foreach($select as $key => $val){
+		    echo $val['id'] . '<br>';
+		}
 		
 		// ヘッダーフッター付きのページを表示
 		View_Wrap::admin('mypage', $this->viewData);
+	}
+	
+	public function action_Sql()
+	{
+		
 	}
 }

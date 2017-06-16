@@ -1,17 +1,14 @@
 <?php
 
-class Model_User extends Orm\Model
+class Model_User extends Model_Basegame
 {
-	public $userData;
+	protected static $_table_name = 'user';		//テーブル名がモデル名の複数形なら省略可
+	protected static $_primariy = array('id');	//プライマリーキーがidなら省略可
 	
 	//使用するフィールド名をセット
 	protected static $_properties = array(
-	'id',
-	'name',
+		'id',
+		'name',
 	);
-	//テーブル名がモデル名の複数形なら省略可
-	protected static $_table_name = 'user';
-	//プライマリーキーがidなら省略可
-	protected static $_primariy = array('id');
 
 }

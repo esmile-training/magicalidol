@@ -1,31 +1,6 @@
 <?php
-class Lib_Basegame
+class Model_Csv extends Model
 {
-	public function __construct()
-	{
-		
-	}
-	
-	public function exec($className, $method, $arg = false)
-	{
-		$className = 'Lib_' . $className;
-		$libClass = new $className();
-		
-		//ˆø”‚Ì”‚É‚æ‚Á‚Äo‚µ‚í‚¯
-		if (is_array($arg))
-		{
-			return $result = call_user_func_array(array($libClass, $method), $arg);
-		}
-		elseif ($arg)
-		{
-			return $result = call_user_func_array(array($libClass, $method), array($arg));
-		}
-		else
-		{
-			return $result = $libClass->$method();
-		};
-	}
-	
 	/*
 	*	CSV‘SŒŽæ“¾
 	*	@fileName	public/assets/scvˆÈ‰º‚Ìƒtƒ@ƒCƒ‹–¼(Šg’£Žq–³‚µ)
@@ -46,7 +21,6 @@ class Lib_Basegame
 		}
 		return $this->format($fileName, $result);
 	}
-	
 	/*
 	*	‚b‚r‚u‚Í‘S‚Ä•¶ŽšŒ^‚Ì‚½‚ßAƒRƒ“ƒtƒBƒOÝ’è‚É]‚Á‚ÄŒ^‚ð•ÏŠ·
 	*/
@@ -68,27 +42,7 @@ class Lib_Basegame
 				}
 			}
 		}
+
 		return $data;
 	}
-	
-	/*
-	*	csv‚ÆModel‚©‚çŽæ“¾‚µ‚½ƒf[ƒ^‚ðŒ‹‡
-	*/
-	
-	public function combining($dbData, $csvData, $addKey = 'id'){
-		foreach($dbData as $dbkey => $dbval)
-		{
-			foreach($csvData as $csvkey => $csvval)
-			{
-				if(array_search($dbkey, $csvData[$csvkey]))
-				{
-					//var_dump($csvval);
-					var_dump($csvData);
-				}
-			}
-		}
-		
-		//var_dump($dbData);
-	}
 }
-

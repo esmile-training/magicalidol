@@ -1079,3 +1079,15 @@ INFO - 2017-06-16 18:50:20 --> Fuel\Core\Request::__construct - Creating a new m
 INFO - 2017-06-16 18:50:20 --> Fuel\Core\Request::execute - Called
 INFO - 2017-06-16 18:50:20 --> Fuel\Core\Request::execute - Setting main Request
 ERROR - 2017-06-16 18:50:20 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-16 18:53:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-16 18:53:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-16 18:53:08 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-16 18:53:08 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-16 18:53:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-16 18:53:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-16 18:53:09 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-16 18:53:09 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-16 18:53:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-16 18:53:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-16 18:53:10 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-16 18:53:10 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39

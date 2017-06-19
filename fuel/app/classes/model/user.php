@@ -14,9 +14,9 @@ class Model_User extends Model_Basegame
 	/**********************************
 	* リレーション：一対多
 	*/
-	protected static $_has_many = array(
+	protected static $_has_one = array(
 		'uShop' => array(
-			'model_to' => 'Model_UShop',
+			'model_to' => 'Model_Ushop',
 			'key_from' => 'id',
 			'key_to' => 'userId',
 			'cascade_save' => false,

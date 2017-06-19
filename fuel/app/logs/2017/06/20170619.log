@@ -1,0 +1,1286 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2017-06-19 09:30:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-19 09:30:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 09:30:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 10:33:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-19 10:33:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:33:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 10:33:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-19 10:33:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:33:11 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:33:11 --> Warning - Missing argument 1 for Lib_BaseGame::exec(), called in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/home.php on line 7 and defined in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 9
+INFO - 2017-06-19 10:37:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-19 10:37:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:37:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:37:15 --> Warning - Missing argument 1 for Lib_BaseGame::exec(), called in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/home.php on line 7 and defined in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 9
+INFO - 2017-06-19 10:37:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-19 10:37:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:37:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:37:16 --> Warning - Missing argument 1 for Lib_BaseGame::exec(), called in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/home.php on line 7 and defined in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 9
+INFO - 2017-06-19 10:37:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-19 10:37:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:37:17 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:37:17 --> Warning - Missing argument 1 for Lib_BaseGame::exec(), called in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/home.php on line 7 and defined in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 9
+INFO - 2017-06-19 10:37:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-19 10:37:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:37:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:37:18 --> Warning - Missing argument 1 for Lib_BaseGame::exec(), called in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/home.php on line 7 and defined in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 9
+INFO - 2017-06-19 10:37:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-19 10:37:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:37:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 10:37:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:37:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:37:26 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:37:27 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:41:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:41:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:41:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:41:02 --> Parsing Error - syntax error, unexpected 'exit' (T_EXIT), expecting function (T_FUNCTION) in /home/esmile-sys/www/magicalidol/fuel/app/classes/model/user.php on line 17
+INFO - 2017-06-19 10:42:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:42:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:42:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 10:42:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:42:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:42:24 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:42:24 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:42:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:42:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:42:31 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:42:31 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:42:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:42:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:42:32 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:42:32 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:45:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:45:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:45:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:45:52 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:46:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:46:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:46:01 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:46:02 --> Error - Related model not found by Has_Many relation "uShp": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:46:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:46:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:46:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:46:16 --> Error - Related model not found by Has_Many relation "UShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:46:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:46:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:46:49 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:46:49 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:46:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:46:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:46:49 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:46:49 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:47:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:47:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:47:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:47:02 --> Error - Related model not found by Has_Many relation "Model_UShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:47:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:47:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:47:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:47:03 --> Error - Related model not found by Has_Many relation "Model_UShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:52:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:52:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:52:10 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:52:10 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:52:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:52:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:52:10 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:52:10 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:52:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:52:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:52:11 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:52:11 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:52:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:52:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:52:11 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:52:11 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:52:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:52:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:52:12 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:52:12 --> Error - Related model not found by Has_Many relation "uShop": Model_UShop in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/hasmany.php on line 39
+INFO - 2017-06-19 10:57:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:57:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:57:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:57:41 --> Parsing Error - syntax error, unexpected '=', expecting ')' in /home/esmile-sys/www/magicalidol/fuel/app/classes/model/user.php on line 18
+INFO - 2017-06-19 10:57:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:57:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:57:58 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:57:58 --> Fatal Error - Class 'Model_UShop' not found in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 10:58:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:58:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:58:27 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:58:27 --> Fatal Error - Class 'Model_UShop' not found in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 10:58:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:58:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:58:28 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:58:28 --> Fatal Error - Class 'Model_UShop' not found in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 10:58:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:58:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:58:44 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:58:44 --> Fatal Error - Class 'Model_UShop' not found in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 10:58:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:58:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:58:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:58:45 --> Fatal Error - Class 'Model_UShop' not found in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 10:59:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 10:59:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 10:59:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 10:59:39 --> Fatal Error - Class 'Model_uShop' not found in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 11:00:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:00:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:00:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:00:04 --> Fatal Error - Class 'Model_UShop' not found in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 11:01:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:01:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:01:42 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:01:42 --> 1048 - Column 'name' cannot be null [ INSERT INTO `user` (`name`) VALUES (null) ] in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/mysqli/connection.php on line 278
+INFO - 2017-06-19 11:02:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:02:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:02:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:02:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:02:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:02:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:02:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:02:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:02:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:03:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:03:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:03:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:03:18 --> Notice - Undefined variable: result in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 97
+INFO - 2017-06-19 11:03:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:03:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:03:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:03:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:03:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:03:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:04:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-19 11:04:35 --> Parsing Error - syntax error, unexpected '.' in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 99
+INFO - 2017-06-19 11:04:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:04:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:04:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:04:45 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 99
+INFO - 2017-06-19 11:05:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:05:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:05:08 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:05:08 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 99
+INFO - 2017-06-19 11:05:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:05:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:05:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:05:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:05:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:05:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:05:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:05:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:05:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:06:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:06:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:06:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:07:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:07:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:31 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:07:31 --> Error - Relation "uSho" was not found in the model. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/query.php on line 655
+INFO - 2017-06-19 11:07:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:07:41 --> Error - Relation "uShop" was not found in the model. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/query.php on line 655
+INFO - 2017-06-19 11:07:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:42 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:07:42 --> Error - Relation "uShop" was not found in the model. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/query.php on line 655
+INFO - 2017-06-19 11:07:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:42 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:07:42 --> Error - Relation "uShop" was not found in the model. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/query.php on line 655
+INFO - 2017-06-19 11:07:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:07:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:07:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:07:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:07:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:08:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:08:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:08:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:08:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:08:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:08:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:08:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:08:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:08:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:09:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:09:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:09:00 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:09:00 --> 1054 - Unknown column 't0.userId' in 'on clause' [ SELECT `t0`.`id` AS `t0_c0`, `t0`.`name` AS `t0_c1`, `t1`.`id` AS `t1_c0`, `t1`.`userId` AS `t1_c1`, `t1`.`productName` AS `t1_c2` FROM `user` AS `t0` LEFT JOIN `uShop` AS `t1` ON (`t0`.`userId` = `t1`.`id`) WHERE `t0`.`id` = 1 ] in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/mysqli/connection.php on line 278
+INFO - 2017-06-19 11:09:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:09:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:09:17 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:09:17 --> 1054 - Unknown column 't0.userId' in 'on clause' [ SELECT `t0`.`id` AS `t0_c0`, `t0`.`name` AS `t0_c1`, `t1`.`id` AS `t1_c0`, `t1`.`userId` AS `t1_c1`, `t1`.`productName` AS `t1_c2` FROM `user` AS `t0` LEFT JOIN `uShop` AS `t1` ON (`t0`.`userId` = `t1`.`id`) WHERE `t0`.`id` = 1 ] in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/mysqli/connection.php on line 278
+INFO - 2017-06-19 11:09:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:09:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:09:27 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:09:27 --> 1054 - Unknown column 't0.userId' in 'on clause' [ SELECT `t0`.`id` AS `t0_c0`, `t0`.`name` AS `t0_c1`, `t1`.`id` AS `t1_c0`, `t1`.`userId` AS `t1_c1`, `t1`.`productName` AS `t1_c2` FROM `user` AS `t0` LEFT JOIN `uShop` AS `t1` ON (`t0`.`userId` = `t1`.`id`) WHERE `t0`.`id` = 1 ] in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/mysqli/connection.php on line 278
+INFO - 2017-06-19 11:09:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:09:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:09:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:10:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:10:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:10:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:10:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:10:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:10:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:11:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:11:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:11:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:11:59 --> 1054 - Unknown column 't0.userId' in 'where clause' [ SELECT `t0`.`id` AS `t0_c0`, `t0`.`name` AS `t0_c1`, `t1`.`id` AS `t1_c0`, `t1`.`userId` AS `t1_c1`, `t1`.`productName` AS `t1_c2` FROM `user` AS `t0` LEFT JOIN `uShop` AS `t1` ON (`t0`.`id` = `t1`.`userId`) WHERE `t0`.`userId` = 1 ] in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/mysqli/connection.php on line 278
+INFO - 2017-06-19 11:12:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:12:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:12:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:12:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:12:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:12:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:12:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:12:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:12:35 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:12:35 --> 1054 - Unknown column 't0.productName' in 'where clause' [ SELECT `t0`.`id` AS `t0_c0`, `t0`.`name` AS `t0_c1`, `t1`.`id` AS `t1_c0`, `t1`.`userId` AS `t1_c1`, `t1`.`productName` AS `t1_c2` FROM `user` AS `t0` LEFT JOIN `uShop` AS `t1` ON (`t0`.`id` = `t1`.`userId`) WHERE `t0`.`productName` = 1 ] in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/mysqli/connection.php on line 278
+INFO - 2017-06-19 11:12:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:12:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:12:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:14:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:14:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:14:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:22:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:22:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:22:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:22:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:22:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:22:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:22:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:22:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:22:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:23:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:23:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:23:37 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:23:37 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:31:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:31:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:31:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:31:59 --> Error - Property "name" not found for Model_Ushop. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:32:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:32:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:32:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:37:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:37:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:37:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:37:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:37:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:37:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:37:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:37:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:37:34 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:37:34 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:37:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:37:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:37:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:39:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:39:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:39:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:39:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:39:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:39:38 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:39:38 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:41:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:41:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:41:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:41:45 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:41:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:41:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:41:46 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:41:46 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:41:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:41:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:41:47 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:41:47 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:41:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:41:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:41:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:46:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:46:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:46:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:46:15 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:46:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:46:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:46:54 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:46:54 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:46:55 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:46:55 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:46:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:46:55 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:47:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:47:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:47:56 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:47:56 --> Error - Property "productName" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 11:53:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:53:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:53:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:53:59 --> 1054 - Unknown column 't0.userId' in 'on clause' [ SELECT `t0`.`id` AS `t0_c0`, `t0`.`name` AS `t0_c1`, `t1`.`id` AS `t1_c0`, `t1`.`userId` AS `t1_c1`, `t1`.`productName` AS `t1_c2` FROM `user` AS `t0` LEFT JOIN `uShop` AS `t1` ON (`t0`.`userId` = `t1`.`id`) ] in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/mysqli/connection.php on line 278
+INFO - 2017-06-19 11:55:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:55:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:55:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 11:55:04 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 91
+INFO - 2017-06-19 11:55:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:55:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:55:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:55:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:55:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:55:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:58:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:58:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:58:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 11:58:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 11:58:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 11:58:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:01:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:01:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:01:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:01:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:01:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:01:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:01:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:01:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:01:34 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:01:35 --> Error - Property "userId" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-19 12:02:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:02:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:02:25 --> Fuel\Core\Request::execute - Setting main Request
+DEBUG - 2017-06-19 12:02:25 --> guild name is coffee
+INFO - 2017-06-19 12:02:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:02:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:02:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:03:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:03:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:03:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:03:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:03:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:03:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:03:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:03:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:03:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:03:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:03:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:03:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:03:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:03:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:03:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:03:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:03:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:03:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:03:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:03:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:03:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:04:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:04:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:04:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:04:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:04:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:04:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:04:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:04:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:04:42 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:04:42 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 93
+INFO - 2017-06-19 12:04:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:04:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:04:56 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:04:56 --> Notice - Undefined variable: va in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 93
+INFO - 2017-06-19 12:05:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:05:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:05:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:05:04 --> Warning - Illegal string offset 'id' in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 93
+INFO - 2017-06-19 12:05:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:05:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:05:22 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:05:22 --> Runtime Recoverable error - Object of class Model_Ushop could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 93
+INFO - 2017-06-19 12:05:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:05:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:05:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:06:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:06:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:06:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:06:16 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 101
+INFO - 2017-06-19 12:06:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:06:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:06:26 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:06:26 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 103
+INFO - 2017-06-19 12:06:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:06:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:06:56 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:06:56 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 91
+INFO - 2017-06-19 12:07:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:07:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:07:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:07:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:07:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:07:17 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:07:17 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 98
+INFO - 2017-06-19 12:07:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:07:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:07:54 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:07:54 --> Notice - Undefined variable: results in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 86
+INFO - 2017-06-19 12:08:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:08:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:08:09 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:08:09 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 91
+INFO - 2017-06-19 12:08:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:08:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:08:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:09:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:09:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:09:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:10:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:10:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:10:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:10:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:10:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:10:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:11:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:11:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:11:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:12:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:12:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:12:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:12:18 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 89
+INFO - 2017-06-19 12:12:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:12:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:12:34 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:12:34 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 89
+INFO - 2017-06-19 12:13:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:13:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:13:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:13:02 --> Notice - Use of undefined constant ture - assumed 'ture' in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 277
+INFO - 2017-06-19 12:13:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:13:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:13:11 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:13:11 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 89
+INFO - 2017-06-19 12:16:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:16:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:16:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:16:15 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 89
+INFO - 2017-06-19 12:16:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:16:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:16:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:16:15 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 89
+INFO - 2017-06-19 12:16:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:16:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:16:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:16:29 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 89
+INFO - 2017-06-19 12:16:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:16:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:16:38 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:16:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:16:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:16:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:17:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:17:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:17:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:17:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-19 12:17:43 --> Parsing Error - syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 99
+INFO - 2017-06-19 12:18:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-19 12:18:03 --> Parsing Error - syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 91
+INFO - 2017-06-19 12:18:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-19 12:18:18 --> Parsing Error - syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 99
+INFO - 2017-06-19 12:18:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+ERROR - 2017-06-19 12:18:19 --> Parsing Error - syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 99
+INFO - 2017-06-19 12:18:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:18:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:18:43 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:18:43 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 97
+INFO - 2017-06-19 12:20:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:20:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:20:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:21:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:21:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:21:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:21:02 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 96
+INFO - 2017-06-19 12:23:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:23:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:23:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:23:41 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 96
+INFO - 2017-06-19 12:23:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:23:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:23:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:23:52 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 96
+INFO - 2017-06-19 12:24:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:24:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:24:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:24:02 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 96
+INFO - 2017-06-19 12:24:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:24:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:24:43 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:24:43 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 96
+INFO - 2017-06-19 12:24:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:24:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:24:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:24:55 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 96
+INFO - 2017-06-19 12:25:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:25:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:25:09 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:25:09 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 97
+INFO - 2017-06-19 12:25:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:25:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:25:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:26:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:26:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:26:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:28:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:28:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:28:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:29:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:29:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:29:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:29:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:29:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:29:33 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:29:33 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 93
+INFO - 2017-06-19 12:29:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:29:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:29:46 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:29:46 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 97
+INFO - 2017-06-19 12:30:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:30:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:30:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:34:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:34:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:34:26 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:34:27 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 87
+INFO - 2017-06-19 12:34:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:34:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:34:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:35:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:35:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:35:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:35:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:35:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:35:38 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:40:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:40:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:40:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:40:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:40:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:40:42 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:40:42 --> Warning - Illegal string offset 'id' in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 56
+INFO - 2017-06-19 12:41:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:41:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:41:50 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:41:50 --> Warning - Illegal string offset 'id' in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 56
+INFO - 2017-06-19 12:42:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:42:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:42:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:42:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:42:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:42:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:42:52 --> Warning - Illegal string offset 'id' in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 56
+INFO - 2017-06-19 12:43:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:43:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:43:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:44:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:44:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:44:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 12:57:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:57:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:57:47 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:57:47 --> Fatal Error - Call to undefined method Controller_Mypage::getAll() in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 31
+INFO - 2017-06-19 12:58:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:58:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:58:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:58:46 --> Error - Listing columns failed, you have to set the model properties with a static $_properties setting in the model. Original exception: Table 'esmile-sys_magicalidol.csvs' doesn't exist [ SHOW FULL COLUMNS FROM `csvs` ] in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 305
+INFO - 2017-06-19 12:59:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 12:59:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 12:59:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 12:59:03 --> Notice - Undefined variable: category in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 32
+INFO - 2017-06-19 13:00:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 13:00:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 13:00:05 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 13:00:05 --> Warning - array_shift() expects parameter 1 to be array, null given in /home/esmile-sys/www/magicalidol/fuel/app/classes/model/csv.php on line 12
+INFO - 2017-06-19 13:00:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 13:00:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 13:00:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 13:00:45 --> Warning - array_shift() expects parameter 1 to be array, null given in /home/esmile-sys/www/magicalidol/fuel/app/classes/model/csv.php on line 13
+INFO - 2017-06-19 13:00:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 13:00:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 13:00:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:13:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:13:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:13:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:13:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:13:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:13:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:14:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:14:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:14:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:14:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:14:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:14:23 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 14:14:24 --> Warning - array_shift() expects parameter 1 to be array, null given in /home/esmile-sys/www/magicalidol/fuel/app/classes/model/csv.php on line 12
+INFO - 2017-06-19 14:24:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:24:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:24:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:24:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:24:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:24:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:34:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:34:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:34:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:34:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:34:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:34:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:34:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:34:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:34:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:34:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:34:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:34:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:34:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:34:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:34:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:35:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:35:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:35:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:35:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:35:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:35:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:35:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:35:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:35:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 14:38:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:38:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:38:07 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 14:38:07 --> Fatal Error - Call to undefined method Lib_BaseGame::format() in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 47
+INFO - 2017-06-19 14:38:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 14:38:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 14:38:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:03:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:03:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:03:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:31:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:31:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:31:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:38:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:38:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:38:31 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 15:38:31 --> Notice - Undefined variable: select in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 33
+INFO - 2017-06-19 15:39:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:39:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:39:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:42:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:42:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:42:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:45:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:45:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:45:28 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 15:45:28 --> Notice - Undefined variable: dbData1 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 15:45:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:45:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:45:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:46:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:46:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:46:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:47:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:47:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:47:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:47:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:47:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:47:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:47:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:47:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:47:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:47:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:47:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:47:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:47:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:47:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:47:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:48:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:48:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:48:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:48:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:48:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:48:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 15:59:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:59:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:59:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 15:59:16 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 15:59:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 15:59:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 15:59:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 15:59:45 --> Notice - Undefined offset: 0 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:00:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:00:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:00:23 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:00:23 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:00:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:00:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:00:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:00:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:00:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:00:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:01:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:01:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:01:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:02:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:02:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:02:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:03:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:03:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:03:12 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:03:12 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 16:03:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:03:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:03:34 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:03:34 --> Warning - array_merge(): Argument #1 is not an array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 87
+INFO - 2017-06-19 16:03:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:03:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:03:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:04:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:04:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:04:47 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:04:47 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 16:05:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:05:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:05:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:05:14 --> Warning - Illegal offset type in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 16:06:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:06:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:06:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:06:03 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 16:06:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:06:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:06:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:06:16 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 16:06:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:06:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:06:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:06:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:06:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:06:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:07:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:07:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:07:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:09:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:09:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:09:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:10:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:10:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:10:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:10:53 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 16:11:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:11:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:11:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:11:03 --> Warning - Illegal string offset 'id' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 92
+INFO - 2017-06-19 16:11:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:11:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:11:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:11:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:11:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:11:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:12:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:12:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:12:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:12:16 --> Notice - Undefined offset: 0 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 16:12:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:12:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:12:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:13:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:13:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:13:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:14:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:14:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:14:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:16:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:16:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:16:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:16:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:16:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:16:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:16:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:16:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:16:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:16:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:16:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:16:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:16:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:16:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:16:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:16:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:16:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:16:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:17:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:17:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:17:40 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:17:40 --> Notice - Undefined offset: 1 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:17:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:17:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:17:51 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:17:51 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:18:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:18:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:18:20 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:18:20 --> Notice - Undefined offset: 0 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:18:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:18:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:18:27 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:18:27 --> Notice - Undefined offset: 1 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:18:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:18:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:18:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:19:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:19:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:19:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:19:03 --> Notice - Undefined offset: 4 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:19:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:19:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:19:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:19:18 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:21:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:21:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:21:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:22:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:22:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:22:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:22:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:22:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:22:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:23:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:23:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:23:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:23:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:23:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:23:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:27:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:27:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:27:05 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:27:06 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 16:27:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:27:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:27:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:27:29 --> Notice - Undefined offset: 7 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 16:30:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:30:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:30:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:30:04 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 16:30:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:30:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:30:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:30:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:30:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:30:48 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:30:48 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:31:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:31:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:31:22 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:31:22 --> Notice - Undefined offset: 0 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:31:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:31:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:31:23 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:31:23 --> Notice - Undefined offset: 0 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 16:31:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:31:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:31:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:31:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:31:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:31:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:33:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:33:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:33:22 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:33:22 --> Notice - Undefined index: name in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 16:35:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:35:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:35:14 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 16:35:14 --> Notice - Undefined variable: key in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 16:35:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:35:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:35:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:52:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:52:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:52:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:57:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:57:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:57:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 16:57:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 16:57:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 16:57:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:06:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:06:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:06:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:06:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:06:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:06:23 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:06:23 --> Notice - Array to string conversion in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 87
+INFO - 2017-06-19 17:06:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:06:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:06:24 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:06:24 --> Notice - Array to string conversion in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 87
+INFO - 2017-06-19 17:06:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:06:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:06:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:08:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:08:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:08:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:08:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:08:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:08:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:08:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:08:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:08:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:10:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:10:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:10:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:11:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:11:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:11:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:11:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:11:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:11:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:12:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:12:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:12:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:12:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:12:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:12:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:12:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:12:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:12:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:13:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:13:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:13:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:13:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:13:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:13:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:17:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:17:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:17:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:17:19 --> Parsing Error - syntax error, unexpected '}' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 17:18:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:18:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:18:53 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:18:53 --> Parsing Error - syntax error, unexpected '}', expecting ',' or ';' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 17:19:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:19:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:19:31 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:19:31 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 85
+INFO - 2017-06-19 17:19:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:19:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:19:49 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:19:49 --> Notice - Undefined offset: 7 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 83
+INFO - 2017-06-19 17:20:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:20:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:20:20 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:20:20 --> Warning - Illegal offset type in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 17:20:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:20:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:20:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:21:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:21:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:21:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:21:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:21:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:21:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:21:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:21:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:21:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:21:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:21:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:21:36 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:21:36 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 17:22:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:22:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:22:25 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:22:25 --> Warning - array_search() expects parameter 2 to be array, integer given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 17:27:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:27:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:27:38 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:27:38 --> Warning - array_merge_recursive(): Argument #1 is not an array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 17:30:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:30:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:30:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:31:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:31:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:31:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:31:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:31:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:31:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:31:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:31:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:31:38 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:31:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:31:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:31:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:32:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:32:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:32:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:32:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:32:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:32:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:32:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:32:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:32:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:33:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:33:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:33:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:33:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:33:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:33:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:34:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:34:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:34:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:35:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:35:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:35:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:36:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:36:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:36:00 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:36:01 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 17:36:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:36:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:36:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:37:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:37:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:37:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:38:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:38:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:38:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:38:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:38:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:38:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:44:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:44:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:44:35 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:44:35 --> Warning - strpos() expects parameter 1 to be string, array given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 17:44:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:44:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:44:50 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:44:50 --> Notice - Undefined offset: 0 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 17:44:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:44:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:44:57 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:44:57 --> Warning - strpos() expects parameter 1 to be string, object given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 80
+INFO - 2017-06-19 17:46:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:46:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:46:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:46:18 --> Warning - strpos() expects parameter 1 to be string, object given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 17:46:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:46:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:46:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:46:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:46:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:46:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:46:46 --> Warning - strpos() expects parameter 1 to be string, object given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 17:47:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:47:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:47:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:47:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:47:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:47:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:48:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:48:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:48:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:48:30 --> Notice - Undefined index:  in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 17:48:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:48:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:48:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:50:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:50:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:50:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:50:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:50:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:50:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:50:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:50:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:50:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:51:00 --> Warning - strpos() expects parameter 1 to be string, object given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 17:51:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:51:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:51:38 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:51:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:51:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:51:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:52:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:52:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:52:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:53:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:53:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:53:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:53:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:53:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:53:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:57:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:57:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:57:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 17:58:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:58:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:58:33 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 17:58:33 --> Runtime Recoverable error - Object of class Model_Ushop could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 17:58:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 17:58:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 17:58:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:00:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:00:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:00:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:01:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:01:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:01:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:02:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:02:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:02:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:02:29 --> Warning - Illegal string offset 'test1' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 18:02:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:02:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:02:51 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:02:51 --> Notice - Use of undefined constant valkey - assumed 'valkey' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 18:02:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:02:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:02:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:03:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:03:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:03:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:16:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:16:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:16:13 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:16:13 --> Notice - Undefined variable: count in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 18:16:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:16:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:16:28 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:16:28 --> Notice - Use of undefined constant csvval - assumed 'csvval' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 89
+INFO - 2017-06-19 18:16:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:16:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:16:49 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:16:49 --> Warning - array_merge(): Argument #1 is not an array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 89
+INFO - 2017-06-19 18:17:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:17:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:17:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:18:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:18:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:18:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:18:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:18:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:18:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:19:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:19:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:19:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:21:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:21:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:21:40 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:21:40 --> Warning - array_merge(): Argument #1 is not an array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 89
+INFO - 2017-06-19 18:22:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:22:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:22:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:22:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:22:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:22:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:22:29 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 84
+INFO - 2017-06-19 18:22:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:22:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:22:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:22:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:22:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:22:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:27:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:27:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:27:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:28:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:28:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:28:10 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:28:10 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 18:30:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:30:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:30:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:30:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:30:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:30:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:35:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:35:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:35:34 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:35:34 --> Notice - Undefined variable: count in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 82
+INFO - 2017-06-19 18:35:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:35:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:35:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:36:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:36:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:36:20 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:36:20 --> Warning - array_merge(): Argument #1 is not an array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 87
+INFO - 2017-06-19 18:36:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:36:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:36:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:36:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:36:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:36:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:37:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:37:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:37:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:37:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:37:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:37:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:42:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:42:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:42:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:42:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:42:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:42:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:43:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:43:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:43:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:43:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:43:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:43:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:43:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:43:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:43:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:43:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:43:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:43:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:43:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:43:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:43:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:45:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:45:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:45:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:52:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:52:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:52:25 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:52:25 --> Notice - Trying to get property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 18:53:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:53:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:53:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:53:15 --> Fatal Error - Call to a member function to_array() on array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-19 18:53:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:53:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:53:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-19 18:53:31 --> Fatal Error - Call to a member function to_array() on array in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 49
+INFO - 2017-06-19 18:55:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:55:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:55:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:55:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:55:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:55:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:57:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:57:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:57:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:57:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:57:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:57:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-19 18:58:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-19 18:58:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-19 18:58:25 --> Fuel\Core\Request::execute - Setting main Request

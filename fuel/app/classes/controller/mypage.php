@@ -16,7 +16,7 @@ class Controller_Mypage extends Controller_Basegame
 		
 		
 		//select
-		Controller_Mypage::select();
+		$select = Controller_Mypage::select();
 		
 		//update
 		//Controller_Mypage::update();
@@ -26,6 +26,12 @@ class Controller_Mypage extends Controller_Basegame
 		
 		// リレーショナルorm
 		Controller_Mypage::relations();
+		
+		// csvmodel
+		$weaponList = $this->Lib->getAll('/weapon/mst1');
+		
+		$combining = $this->Lib->combining($select, $weaponList, 'id');
+		
 		
 		// ヘッダーフッター付きのページを表示
 		View_Wrap::admin('mypage', $this->viewData);
@@ -40,22 +46,17 @@ class Controller_Mypage extends Controller_Basegame
 	public function select()
 	{
 		// 現在登録されているすべての値を取得
-		//$select = Model_User::find('all');
+		$select = Model_User::find('all');
 		
 		// 最後の一件だけ取得し、特定のカラムだけを取得
 		//$select = Model_User::find('last', array('select' => array('id', 'name')));
 		
 		// 条件式のみ
 		// select, fromの指定は各モデルで指定
-		$select = Model_User::find('all', array('where' => array('id' => 1)));
+		//$select = Model_User::find('all', array('where' => array('name' => 'user3')));
 		
 		
-		// 表示
-		foreach($select as $key => $val)
-		{
-			echo 'id ' . $val['id'];
-			echo ' name ' . $val['name'] . '<br>';
-		}
+		return $select;
 	}
 	
 	public function update()
@@ -83,15 +84,8 @@ class Controller_Mypage extends Controller_Basegame
 	
 	public function relations()
 	{
-		$results = Model_User::find( 'all', array(
-		  'related' => array(
-	        // リレーションの設定名を指定
-	        'uShop'
-	      ),
-	      'where' => array(
-	        array('id', 1)
-	      )
-	     )
-	    );
+		$results = Model_User::find(2);		// 引数はkey_fromで設定したカラムと自動でwhere句を生成
+		echo $results->uShop->productName;	// 指定のカラムまでアローで指定
+	    
 	}
 }

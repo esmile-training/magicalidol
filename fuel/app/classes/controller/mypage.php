@@ -10,6 +10,8 @@ class Controller_Mypage extends Controller_Basegame
 		 */
 		$data = $this->Lib->exec('User', 'test', [10, 'masaya']);
 		
+		
+		var_dump($_POST['name']);
 
 		//insert
 		//Controller_Mypage::insert($data);
@@ -25,12 +27,12 @@ class Controller_Mypage extends Controller_Basegame
 		//Controller_Mypage::deleted();
 		
 		// リレーショナルorm
-		Controller_Mypage::relations();
+		//Controller_Mypage::relations();
 		
 		// csvmodel
 		$weaponList = $this->Lib->getAll('/weapon/mst1');
 		
-		$combining = $this->Lib->combining($select, $weaponList, 'id');
+		$combining = $this->Lib->combining($select, $weaponList, 'weapon');
 		
 		
 		// ヘッダーフッター付きのページを表示

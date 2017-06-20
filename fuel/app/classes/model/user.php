@@ -9,6 +9,7 @@ class Model_User extends Model_Basegame
 	protected static $_properties = array(
 		'id',
 		'name',
+		'weaponId'
 	);
 	
 	/**********************************

@@ -1,0 +1,1171 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2017-06-20 09:30:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 09:30:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 09:30:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:13:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 10:13:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:13:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:13:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 10:13:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:13:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:13:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:13:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:13:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:14:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:14:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:14:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:14:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:14:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:14:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:14:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:14:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:14:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:16:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:16:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:16:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:21:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:21:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:21:23 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 10:21:23 --> Fatal Error - Call to a member function to_php() on array in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 49
+INFO - 2017-06-20 10:25:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:25:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:25:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 10:25:59 --> Fatal Error - Call to a member function to_php() on array in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 49
+INFO - 2017-06-20 10:26:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:26:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:26:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:27:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:27:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:27:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:27:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:27:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:27:58 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 10:27:58 --> Notice - Undefined index: _data in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 79
+INFO - 2017-06-20 10:28:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 10:28:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:28:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:28:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:28:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:28:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:28:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:28:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:28:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:29:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:29:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:29:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:29:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:29:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:29:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:30:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:30:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:30:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:30:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:30:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:30:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:30:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:30:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:30:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:31:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:31:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:31:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:31:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:31:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:31:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 10:32:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:32:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:32:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 10:32:40 --> Runtime Recoverable error - Object of class Model_User could not be converted to string in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 81
+INFO - 2017-06-20 10:32:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 10:32:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 10:32:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:08:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:08:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:08:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:08:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:08:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:08:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:08:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:08:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:08:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:09:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:09:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:09:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:10:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:10:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:10:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:10:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:10:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:10:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:11:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:11:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:11:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:19:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:19:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:19:10 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:19:10 --> Notice - Undefined variable: dbkey in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-20 11:19:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:19:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:19:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:20:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:20:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:20:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:20:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:20:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:20:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:20:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:20:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:20:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:21:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:21:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:21:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:25:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:25:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:25:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:31:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:31:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:31:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:31:04 --> Notice - Array to string conversion in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 96
+INFO - 2017-06-20 11:31:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:31:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:31:22 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:31:23 --> Notice - Undefined variable: array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 102
+INFO - 2017-06-20 11:31:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:31:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:31:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:39:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:39:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:39:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:39:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:39:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:39:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:39:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:39:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:39:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:39:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:39:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:39:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:40:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:40:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:40:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:41:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:41:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:41:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:41:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:41:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:41:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:41:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:41:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:41:38 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:41:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:41:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:41:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:41:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:41:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:41:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:42:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:42:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:42:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:42:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:42:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:42:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:43:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:43:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:43:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:44:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:44:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:44:06 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:44:07 --> Notice - Undefined index:  in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 87
+INFO - 2017-06-20 11:44:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:44:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:44:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:44:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:44:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:44:58 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:44:58 --> Parsing Error - syntax error, unexpected 'l' (T_STRING) in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-20 11:45:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:45:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:45:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:45:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:45:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:45:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:45:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:45:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:45:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:46:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:46:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:46:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:46:04 --> Warning - var_dump() expects at least 1 parameter, 0 given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-20 11:46:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:46:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:46:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:46:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:46:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:46:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:47:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:47:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:47:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:48:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:48:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:48:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:48:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:48:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:48:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:49:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:49:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:49:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:49:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:49:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:49:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:51:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:51:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:51:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:51:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:51:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:51:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:52:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:52:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:52:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:53:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:53:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:53:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:53:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:53:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:53:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:53:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:53:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:53:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:54:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:54:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:54:34 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:54:34 --> Warning - Illegal string offset 'id' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-20 11:54:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:54:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:54:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:55:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:55:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:55:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:56:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:56:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:56:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:56:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:56:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:56:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:56:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:56:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:56:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 11:56:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:56:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:56:54 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:56:54 --> Notice - Use of undefined constant val - assumed 'val' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-20 11:57:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 11:57:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 11:57:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 11:57:03 --> Notice - Uninitialized string offset: 3 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 86
+INFO - 2017-06-20 12:01:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:01:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:01:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:03:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:03:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:03:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:29:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:29:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:29:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:29:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:29:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:29:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:30:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:30:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:30:12 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 12:30:12 --> Notice - Array to string conversion in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 99
+INFO - 2017-06-20 12:30:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:30:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:30:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:34:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:34:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:34:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:35:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:35:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:35:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 12:35:04 --> Notice - Use of undefined constant getData - assumed 'getData' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 93
+INFO - 2017-06-20 12:35:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:35:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:35:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:36:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:36:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:36:29 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 12:36:30 --> Notice - Use of undefined constant getval - assumed 'getval' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 99
+INFO - 2017-06-20 12:36:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:36:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:36:40 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 12:36:40 --> Notice - Use of undefined constant getval - assumed 'getval' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 99
+INFO - 2017-06-20 12:36:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:36:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:36:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:37:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:37:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:37:47 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 12:37:48 --> Notice - Undefined variable: addData in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 97
+INFO - 2017-06-20 12:37:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:37:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:37:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:44:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:44:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:44:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:44:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:44:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:44:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:44:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:44:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:44:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:44:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:44:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:44:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:44:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:44:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:44:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:44:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:44:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:44:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:46:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:46:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:46:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:46:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:46:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:46:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:47:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:47:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:47:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:47:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:47:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:47:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:47:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:47:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:47:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:47:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:47:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:47:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:47:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:47:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:47:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:48:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:48:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:48:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:48:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:48:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:48:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:49:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:49:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:49:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:49:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:49:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:49:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:49:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:49:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:49:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:54:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:54:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:54:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:54:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:54:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:54:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:58:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:58:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:58:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:59:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:59:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:59:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 12:59:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 12:59:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 12:59:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 13:00:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 13:00:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 13:00:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:05:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:05:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:05:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:06:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:06:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:06:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:06:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:06:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:06:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:07:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:07:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:07:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:07:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:07:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:07:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:07:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:07:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:07:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:07:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:07:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:07:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:07:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:07:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:07:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:07:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:07:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:07:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:08:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:08:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:08:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:09:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:09:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:09:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:13:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:13:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:13:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:13:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:13:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:13:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:15:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:15:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:15:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:15:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:15:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:15:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:16:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:16:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:16:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:16:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:16:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:16:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:20:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:20:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:20:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:20:18 --> Warning - array_push() expects parameter 1 to be array, string given in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 100
+INFO - 2017-06-20 14:20:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:20:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:20:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:20:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:20:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:20:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:24:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:24:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:24:51 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:24:51 --> Warning - array_merge(): Argument #1 is not an array in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 100
+INFO - 2017-06-20 14:25:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:25:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:25:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:25:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:25:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:25:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:26:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:26:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:26:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:26:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:26:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:26:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:26:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:26:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:26:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:27:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:27:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:27:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:28:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:28:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:28:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:29:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:29:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:29:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:29:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:29:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:29:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:29:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:29:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:29:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:29:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:29:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:29:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:32:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:32:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:32:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:33:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:33:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:33:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:34:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:34:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:34:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:34:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:34:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:34:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:34:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:34:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:34:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:34:15 --> Notice - Undefined index: weapon in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 100
+INFO - 2017-06-20 14:35:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:35:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:35:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:35:18 --> Notice - Undefined index: grade in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 100
+INFO - 2017-06-20 14:36:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:36:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:36:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:38:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:38:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:38:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:39:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:39:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:39:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:39:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:39:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:39:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:48:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:48:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:48:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:49:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:49:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:49:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:49:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:49:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:49:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:49:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:49:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:49:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:49:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:49:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:49:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:50:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:50:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:50:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:52:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:52:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:52:37 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:52:37 --> Notice - Use of undefined constant addKey - assumed 'addKey' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 103
+INFO - 2017-06-20 14:52:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:52:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:52:48 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:52:48 --> Notice - Array to string conversion in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 103
+INFO - 2017-06-20 14:53:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:53:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:53:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:53:16 --> Notice - Array to string conversion in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 102
+INFO - 2017-06-20 14:54:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:54:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:54:05 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:54:05 --> Notice - Use of undefined constant addKey - assumed 'addKey' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 102
+INFO - 2017-06-20 14:54:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:54:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:54:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:54:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:54:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:54:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:55:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:55:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:55:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:57:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:57:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:57:58 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:57:59 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 100
+INFO - 2017-06-20 14:58:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:58:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:58:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:59:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:59:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:59:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:59:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:59:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:59:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:59:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:59:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:59:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 14:59:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 14:59:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 14:59:55 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 14:59:55 --> Notice - Undefined index: id in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 100
+INFO - 2017-06-20 15:00:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:00:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:00:24 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 15:00:24 --> Parsing Error - syntax error, unexpected '[', expecting '(' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 102
+INFO - 2017-06-20 15:00:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:00:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:00:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:01:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:01:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:01:04 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 15:01:04 --> Parsing Error - syntax error, unexpected '[', expecting '(' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 102
+INFO - 2017-06-20 15:01:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:01:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:01:16 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 15:01:16 --> Parsing Error - syntax error, unexpected '[', expecting '(' in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 102
+INFO - 2017-06-20 15:01:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:01:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:01:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:01:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:01:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:01:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:02:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:02:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:02:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:02:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:02:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:02:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:03:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:03:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:03:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:14:38 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:14:38 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:14:38 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:16:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:16:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:16:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:30:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:30:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:30:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:30:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:30:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:30:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:31:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:31:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:31:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:32:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:32:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:32:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:32:48 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:32:48 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:32:48 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:33:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:33:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:33:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:33:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:33:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:33:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:34:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:34:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:34:05 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 15:34:05 --> Error - Property "uShop" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-20 15:34:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:34:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:34:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:35:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:35:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:35:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:38:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:38:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:38:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:38:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:38:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:38:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:38:51 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:38:51 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:38:51 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:39:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:39:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:39:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:42:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:42:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:42:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:42:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:42:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:42:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:42:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:42:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:42:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:43:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:43:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:43:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:43:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:43:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:43:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:44:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:44:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:44:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:47:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:47:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:47:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:59:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:59:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:59:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 15:59:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 15:59:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 15:59:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:04:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:04:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:04:18 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:04:18 --> Warning - Attempt to assign property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 109
+INFO - 2017-06-20 16:05:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:05:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:05:49 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:05:49 --> Warning - Attempt to assign property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 109
+INFO - 2017-06-20 16:06:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:06:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:06:45 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:06:45 --> Warning - Attempt to assign property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 109
+INFO - 2017-06-20 16:07:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:07:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:07:14 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:07:15 --> Warning - Attempt to assign property of non-object in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 109
+INFO - 2017-06-20 16:07:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:07:26 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:07:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:08:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:08:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:08:02 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:08:02 --> Notice - Undefined variable: data in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 109
+INFO - 2017-06-20 16:08:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:08:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:08:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:09:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:09:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:09:30 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:09:30 --> Notice - Undefined offset: 7 in /home/esmile-sys/www/magicalidol/fuel/app/classes/lib/basegame.php on line 112
+INFO - 2017-06-20 16:10:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:10:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:10:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:12:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:12:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:12:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:12:20 --> Error - Property "skillId" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-20 16:12:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:12:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:12:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:15:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:15:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:15:50 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:15:50 --> Error - Property "weaponId" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-20 16:16:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:16:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:16:00 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:16:01 --> Error - Property "weaponId" not found for Model_User. in /home/esmile-sys/www/magicalidol/fuel/packages/orm/classes/model.php on line 1134
+INFO - 2017-06-20 16:16:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:16:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:16:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:17:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:17:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:17:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:18:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:18:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:18:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:26:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:26:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:26:15 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:26:16 --> Fatal Error - Call to undefined method Lib_Basegame::combining() in /home/esmile-sys/www/magicalidol/fuel/app/classes/controller/mypage.php on line 33
+INFO - 2017-06-20 16:26:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:26:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:26:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:26:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:26:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:26:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:26:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:26:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:26:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:43:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:43:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:43:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:45:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:45:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:45:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:50:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:50:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:50:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:53:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 16:53:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:53:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:55:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:55:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:55:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:55:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:55:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:55:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:55:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-20 16:55:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:55:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:55:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:55:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:55:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:55:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:55:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:55:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:56:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:56:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:56:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:56:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:56:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:56:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:56:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:56:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:56:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:56:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 16:56:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:56:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 16:56:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:56:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:56:41 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:56:44 --> Error - invalid data source name in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/pdo/connection.php on line 100
+INFO - 2017-06-20 16:57:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:57:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:57:20 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:57:20 --> Error - invalid data source name in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/pdo/connection.php on line 100
+INFO - 2017-06-20 16:59:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:59:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:59:52 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:59:52 --> Error - invalid data source name in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/pdo/connection.php on line 100
+INFO - 2017-06-20 16:59:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 16:59:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 16:59:54 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 16:59:54 --> Error - invalid data source name in /home/esmile-sys/www/magicalidol/fuel/core/classes/database/pdo/connection.php on line 100
+INFO - 2017-06-20 17:00:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 17:00:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:00:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:00:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 17:00:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:00:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:00:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:00:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:00:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:09:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 17:09:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:09:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:11:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:11:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:11:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:11:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:11:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:11:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:11:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:11:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:11:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:11:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:11:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:11:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:11:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 17:11:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:11:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:11:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:11:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:11:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:12:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:12:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:12:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:12:27 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:12:27 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:12:27 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:12:28 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:12:28 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:12:28 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:12:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:12:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:12:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:13:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 17:13:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:13:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:13:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 17:13:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:13:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:13:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:13:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:13:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:14:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:14:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:14:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:15:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:15:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:15:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:15:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:15:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:15:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:23:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:23:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:23:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:28:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:28:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:28:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:40:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:40:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:40:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:40:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:40:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:40:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:40:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:40:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:40:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:41:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:41:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:41:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:45:44 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/background"
+INFO - 2017-06-20 17:45:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:45 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:45:45 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:45 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/background"
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/background"
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:45:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:46:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:03 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 17:46:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:46:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:46:30 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:46:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:46:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:46:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:47:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:47:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:47:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:47:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:47:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:47:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:48:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:48:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:48:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:48:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:48:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:48:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:49:13 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:49:13 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:49:13 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:49:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:49:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:49:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:49:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:49:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:49:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:51:47 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:51:47 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:51:47 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:51:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:51:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:51:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:52:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:52:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:52:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:54:01 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:52 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:54:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:54:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:54:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:54:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:54:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:54:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:55:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:55:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:55:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:55:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:55:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:55:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:55:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:56:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:56:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:56:59 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-06-20 17:56:59 --> Error - Could not find asset: background.jpg in /home/esmile-sys/www/magicalidol/fuel/core/classes/asset/instance.php on line 258
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/image/background"
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:57:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 17:57:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:57:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:57:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 17:57:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:57:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:57:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:57:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:58:14 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:59:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 17:59:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:59:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:59:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 17:59:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:59:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 17:59:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 17:59:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 17:59:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:02:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 18:02:40 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:02:40 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:02:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 18:02:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:02:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:02:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:02:41 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:02:41 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:02:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:04:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:05:02 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:07:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:07:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "uri/to/form"
+INFO - 2017-06-20 18:07:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:07:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:07:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:07:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:07:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:07:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 18:07:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:07:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:08:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 18:08:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:08:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:08:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 18:08:12 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:08:12 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:10:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 18:10:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:10:00 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:10:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 18:10:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:10:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:11:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 18:11:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:11:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:11:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 18:11:42 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:11:42 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:11:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 18:11:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:11:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:12:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-20 18:12:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:12:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:32:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 18:32:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:32:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:32:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:32:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:32:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:33:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 18:33:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:33:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:33:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 18:33:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:33:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:33:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:33:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:33:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-20 18:39:37 --> Fuel\Core\Request::execute - Setting main Request

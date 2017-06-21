@@ -11,7 +11,8 @@ class Controller_Home extends Controller_Basegame
 	 */
 	public function action_index()
 	{
-		
+	
+
 		// ヘッダーフッター付きのページを表示
 		View_Wrap::mainonly('home/top', $this->viewData);
 	}

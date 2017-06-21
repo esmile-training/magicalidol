@@ -16,6 +16,7 @@ class Controller_Top extends Lib_Contents
 		
 		$this->viewData['newsList'] = $newsList;
 		
+echo Html::anchor('mypage', Asset::img('background.jpg'));
 		//データ出力
 		View_Wrap::noheader('top', $this->viewData);
 	}

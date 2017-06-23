@@ -10,8 +10,8 @@ class Controller_Mypage extends Controller_Basegame
 		 */
 		$data = $this->Lib->exec('User', 'test', [10, 'masaya']);
 		
-		var_dump($_POST['name']);
-
+		$this->view_data['img'] = $this->imgUrl('mypage', 'test', 'background.jpg', ['abcdefghijklmnopqrstuwxyz', '1234567890']);
+		
 		//insert
 		//Controller_Mypage::insert($data);
 		
@@ -26,18 +26,14 @@ class Controller_Mypage extends Controller_Basegame
 		//Controller_Mypage::deleted();
 		
 		// リレーショナルorm
-		//Controller_Mypage::relations();
+		Controller_Mypage::relations();
 		
 		// csvmodel
 		$weaponList = $this->Lib->getAll('/weapon/mst1');
-		
 		$combining = $this->Lib->combining($select, $weaponList, 'weapon');
 		
-
-		
-		
 		// ヘッダーフッター付きのページを表示
-		View_Wrap::admin('mypage', $this->viewData);
+		View_Wrap::admin('mypage', $this->view_data, false);
 	}
 	
 	public function insert($data = null)
@@ -90,5 +86,10 @@ class Controller_Mypage extends Controller_Basegame
 		$results = Model_User::find(2);		// 引数はkey_fromで設定したカラムと自動でwhere句を生成
 		echo $results->uShop->productName;	// 指定のカラムまでアローで指定
 	    
+	}
+	
+	public function action_test($data1, $data2)
+	{
+		var_dump($this->urlMarge([$data1, $data2]));
 	}
 }

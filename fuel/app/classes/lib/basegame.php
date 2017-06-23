@@ -75,17 +75,17 @@ class Lib_Basegame
 	*	csv‚ÆModel‚©‚çŽæ“¾‚µ‚½ƒf[ƒ^‚ðŒ‹‡
 	*/
 	
-	public function combining($modelData, $csvData, $code = 'user'){
+	public function combining($model_data, $csv_data, $code = 'user'){
 	
 		$code_id	= $code . "Id";
 		$code_mst	= $code . "Mst";
 
-		foreach($modelData as $modelval)
+		foreach($model_data as $model_val)
 		{
-			$modelval->$code_mst = ( isset( $csvData[$modelval->$code_id] ) )? $csvData[$modelval->$code_id] : null;
+			$model_val->$code_mst = ( isset( $csv_data[$model_val->$code_id] ) )? $csv_data[$model_val->$code_id] : null;
 		}
 		
-		return $modelval;
+		return $model_val;
 	}
 }
 

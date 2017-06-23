@@ -1,5 +1,2 @@
 <?php
-class Model_Basegame extends Orm\Model
-{
-
-}
+class Model_Basegame extends Orm\Model { }

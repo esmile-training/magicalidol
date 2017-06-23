@@ -14,7 +14,7 @@
 			追加
 		</td>
 		<td>
-			git commit --all
+			git add --all
 		</td>
 	</tr>
 	<tr>
@@ -22,9 +22,7 @@
 			コミット
 		</td>
 		<td>
-			svn commit パス -m 'ｺﾒﾝﾄ'<br />
-			※パスに[ . ]を指定すればカレントディレクトリ以下全て<br />
-			※コミットする前には必ずstatusやdiffコマンドで内容を確認すること！
+			git commit -m "コメント"
 		</td>
 	</tr>
 		<td>

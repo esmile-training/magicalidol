@@ -4,13 +4,13 @@
 		◆開発メモ
 	</div>
 	<div style="margin:10px; margin-left:30px; text-align:left" >
-		<a href="<?= ADMIN_URL.'memo/server' ?>">サーバ情報</a>
-	</div>
-	<div style="margin:10px; margin-left:30px; text-align:left" >
-		<a href="<?= ADMIN_URL.'memo/svn' ?>">svnについて</a>
-	</div>
-	<div style="margin:10px; margin-left:30px; text-align:left" >
 		<a href="<?= ADMIN_URL.'memo/fuel' ?>">FuelPHPについて</a>
+	</div>
+	<div style="margin:10px; margin-left:30px; text-align:left" >
+		<a href="<?= ADMIN_URL.'memo/git' ?>">gitについて</a>
+	</div>
+	<div style="margin:10px; margin-left:30px; text-align:left" >
+		<a href="<?= ADMIN_URL.'memo/function' ?>">関数について</a>
 	</div>
 	<div style="margin:10px; margin-left:30px; text-align:left">
 		<a href="https://secure.sakura.ad.jp/phpmyadmin2/?server=mysql300.db.sakura.ne.jp" target="_blank">

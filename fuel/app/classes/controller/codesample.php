@@ -1,6 +1,6 @@
 <?php
 
-class Controller_Mypage extends Controller_Basegame
+class Controller_Codesample extends Controller_Basegame
 {
 	public function action_index()
 	{
@@ -12,28 +12,31 @@ class Controller_Mypage extends Controller_Basegame
 		
 		$this->view_data['img'] = $this->imgUrl('mypage', 'test', 'background.jpg', ['abcdefghijklmnopqrstuwxyz', '1234567890']);
 		
+		// config
+		$this->view_data['config'] = Config::load('user');
+		
 		//insert
-		//Controller_Mypage::insert($data);
+		//Controller_Codesample::insert($data);
 		
 		
 		//select
-		$select = Controller_Mypage::select();
+		$select = Controller_Codesample::select();
 		
 		//update
-		//Controller_Mypage::update();
+		//Controller_Codesample::update();
 		
 		//delete
-		//Controller_Mypage::deleted();
+		//Controller_Codesample::deleted();
 		
 		// リレーショナルorm
-		Controller_Mypage::relations();
+		Controller_Codesample::relations();
 		
 		// csvmodel
 		$weaponList = $this->Lib->getAll('/weapon/mst1');
 		$combining = $this->Lib->combining($select, $weaponList, 'weapon');
 		
 		// ヘッダーフッター付きのページを表示
-		View_Wrap::admin('mypage', $this->view_data);
+		View_Wrap::admin('codesample/index', $this->view_data);
 	}
 	
 	public function insert($data = null)

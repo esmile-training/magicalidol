@@ -1,6 +1,5 @@
 <!-- css  -->
 <?php echo Asset::css("home.css"); ?>
-<?php echo Asset::js("index.js.php"); ?>
 
 
 <div class="home_top_title">magicalidol</div>

@@ -11,10 +11,10 @@
 	</tr>
 	<tr>
 		<td>
-			コミット
+			追加
 		</td>
 		<td>
-			git commit -m "コメント"
+			git commit --all
 		</td>
 	</tr>
 	<tr>

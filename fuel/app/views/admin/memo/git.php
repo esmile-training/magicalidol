@@ -1,24 +1,20 @@
 <a href=<?= ADMIN_URL ?>>戻る</a>
-<h1>SVNコマンド</h1>
+<h1>gitコマンド</h1>
 <table border=1>
 	<tr>
 		<td>
-			更新（update)<br />
-			※最新のヴァージョンにする
+			クローン
 		</td>
 		<td>
-			svn update パス<br />
-			※パスを省略した場合、カレントディレクトリ以下全て
+			git clone https://github.com/esmile-training/magicalidol.git
 		</td>
 	</tr>
 	<tr>
 		<td>
-			変更を取り消して更新
+			コミット
 		</td>
 		<td>
-			/home/esmile-sys/www/環境/update.sh<br />
-			を用意しました。更新によるコンフリクトを避けられます。<br />
-			※変更が取り消されるので注意。webサーバ側の環境で使うとよいかも。
+			git commit -m "コメント"
 		</td>
 	</tr>
 	<tr>

@@ -10,7 +10,7 @@ class Controller_Codesample extends Controller_Basegame
 		 */
 		$data = $this->Lib->exec('User', 'test', [10, 'masaya']);
 		
-		$this->view_data['img'] = $this->imgUrl('mypage', 'test', 'background.jpg', ['abcdefghijklmnopqrstuwxyz', '1234567890']);
+		$this->view_data['img'] = $this->img_url('mypage', 'test', 'background.jpg', ['abcdefghijklmnopqrstuwxyz', '1234567890']);
 		
 		// config
 		$this->view_data['config'] = Config::load('user');
@@ -29,7 +29,7 @@ class Controller_Codesample extends Controller_Basegame
 		//Controller_Codesample::deleted();
 		
 		// リレーショナルorm
-		Controller_Codesample::relations();
+		$this->view_data['relation'] = Controller_Codesample::relations();
 		
 		// csvmodel
 		$weaponList = $this->Lib->getAll('/weapon/mst1');
@@ -39,12 +39,18 @@ class Controller_Codesample extends Controller_Basegame
 		View_Wrap::admin('codesample/index', $this->view_data);
 	}
 	
+	/*
+	 *	INSERT文
+	 */
 	public function insert($data = null)
 	{
 		// 実行
 		Model_User::forge($data)->save();
 	}
 	
+	/*
+	 *	SELECT文
+	 */
 	public function select()
 	{
 		// 現在登録されているすべての値を取得
@@ -61,6 +67,9 @@ class Controller_Codesample extends Controller_Basegame
 		return $select;
 	}
 	
+	/*
+	 *	UOPDATE文
+	 */
 	public function update()
 	{
 		// findの引数は$_primariyで設定したカラムの値
@@ -75,6 +84,9 @@ class Controller_Codesample extends Controller_Basegame
 		$update->save();
 	}
 	
+	/*
+	 *	DELET文
+	 */
 	public function deleted()
 	{
 		// findの引数は$_primariyで設定したカラムの値
@@ -84,15 +96,35 @@ class Controller_Codesample extends Controller_Basegame
 		$delete->delete();
 	}
 	
+	/*
+	 *	リレーション文
+	 */
 	public function relations()
 	{
-		$results = Model_User::find(2);		// 引数はkey_fromで設定したカラムと自動でwhere句を生成
-		echo $results->uShop->productName;	// 指定のカラムまでアローで指定
+		$results = Model_User::find(1); // 引数はkey_fromで設定したカラムと自動でwhere句を生成
+		$relation = $results->uShop;	// 指定のカラムまでアローで指定
 	    
+	    /*
+	    // 配列化させたい場合はこれを使う
+	    $array = array();
+	    // リレーションのデータを置き換え
+    	foreach($relation as $key => $val)
+    	{
+			foreach($val as $valkey => $valval)
+			{
+				$array[$key][] = $valval;
+			}
+		}
+		return $array;
+		*/
+		return $relation;
 	}
 	
+	/*
+	 *	URLの複合化
+	 */
 	public function action_test($data1, $data2)
 	{
-		var_dump($this->urlMarge([$data1, $data2]));
+		var_dump($this->url_marge([$data1, $data2]));
 	}
 }

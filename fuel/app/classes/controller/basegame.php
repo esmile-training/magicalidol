@@ -28,7 +28,7 @@ class Controller_Basegame extends Controller
 	/*
 	 *	imgリンクを暗号化して生成
 	 */
-	public function imgUrl($url, $function, $img, $value = null)
+	public function img_url($url, $function, $img, $value = null)
 	{
 		// 配列であればそれぞれ暗号化
 		if(is_array($value))
@@ -58,7 +58,7 @@ class Controller_Basegame extends Controller
 	/*
 	 *	暗号化されたデータを複合化
 	 */
-	public function urlMarge($value)
+	public function url_marge($value)
 	{
 		// 配列であればそれぞれ複合化
 		if(is_array($value))
@@ -75,4 +75,6 @@ class Controller_Basegame extends Controller
 		
 		return $value;
 	}
+	
+	
 }

@@ -108,6 +108,6 @@ class Controller_Mypage extends Controller_Basegame
 	 */
 	public function action_test($data1, $data2)
 	{
-		var_dump($this->urlMarge([$data1, $data2]));
+		var_dump($this->url_marge([$data1, $data2]));
 	}
 }

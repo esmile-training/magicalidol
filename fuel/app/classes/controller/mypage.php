@@ -36,12 +36,18 @@ class Controller_Mypage extends Controller_Basegame
 		View_Wrap::admin('mypage', $this->view_data);
 	}
 	
+	/*
+	 *	INSERT文
+	 */
 	public function insert($data = null)
 	{
 		// 実行
 		Model_User::forge($data)->save();
 	}
 	
+	/*
+	 *	SELECT文
+	 */
 	public function select()
 	{
 		// 現在登録されているすべての値を取得
@@ -58,6 +64,9 @@ class Controller_Mypage extends Controller_Basegame
 		return $select;
 	}
 	
+	/*
+	 *	UOPDATE文
+	 */
 	public function update()
 	{
 		// findの引数は$_primariyで設定したカラムの値
@@ -72,6 +81,9 @@ class Controller_Mypage extends Controller_Basegame
 		$update->save();
 	}
 	
+	/*
+	 *	DELET文
+	 */
 	public function deleted()
 	{
 		// findの引数は$_primariyで設定したカラムの値
@@ -81,6 +93,9 @@ class Controller_Mypage extends Controller_Basegame
 		$delete->delete();
 	}
 	
+	/*
+	 *	リレーション文
+	 */
 	public function relations()
 	{
 		$results = Model_User::find(2);		// 引数はkey_fromで設定したカラムと自動でwhere句を生成
@@ -88,6 +103,9 @@ class Controller_Mypage extends Controller_Basegame
 	    
 	}
 	
+	/*
+	 *	URLの複合化
+	 */
 	public function action_test($data1, $data2)
 	{
 		var_dump($this->urlMarge([$data1, $data2]));

@@ -19,6 +19,9 @@
 	) ?>
 <div>
 
+<h3>imgでのリンク</h3>
+<div><?php echo $img; ?></div>
+
 <div>
 	<a href="<?= CONTENTS_URL.'mypage' ?>">
 		仮マイページ

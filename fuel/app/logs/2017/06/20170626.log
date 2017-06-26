@@ -1,0 +1,38 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin"
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage"
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 09:36:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:14:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-26 10:14:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:14:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:26:59 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-26 10:26:59 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:26:59 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "home"
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "assets/css/img/background"
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:28:50 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:28:56 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-26 10:28:56 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:28:56 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:40:53 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-26 10:40:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:40:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:40:57 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "mypage/test/dba63a7f7be642d9d28bf7ed504fe57da87736f5f5f3d084451b8e0443459f96/49fefbd2e691e83307d8956ade50e184"
+INFO - 2017-06-26 10:40:57 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:40:57 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-06-26 10:41:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2017-06-26 10:41:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-06-26 10:41:16 --> Fuel\Core\Request::execute - Setting main Request

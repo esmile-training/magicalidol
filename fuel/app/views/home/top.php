@@ -1,7 +1,6 @@
 <!-- css  -->
 <?= Asset::css("home.css"); ?>
 
-
 <div class="home_top_title">
 	magicalidol
 </div>

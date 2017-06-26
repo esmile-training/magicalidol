@@ -1,3 +1,3 @@
-svn status | grep ^? | cut -c9- | xargs rm -rf
-svn revert . -R
-svn update
+git reset --hard HEAD
+git clean -fd
+git pull --rebase origin master

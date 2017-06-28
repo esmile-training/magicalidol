@@ -1,50 +1,44 @@
 <?php
 class View_Wrap extends Controller_Template
 {
-//	public static function contents( $view_pass, $data=array(), $header=null)
-//	{
-//		//ヘッダ読み込み
-//		if ($header) {
-//			$header_view = View::forge($header.'/header', $data);
-//		} else {
-//			$header_view = View::forge('common/header', $data);
-//		}
-//			
-//		//本体読み込み
-//		$body_view = View::forge( $view_pass, $data, false);
-//		//フッタ読み込み
-//		$footer_view = View::forge('common/footer');
-//		//表示
-//		echo $header_view.$body_view.$footer_view;
-//	}
-//	
 	/*
 	 * headerとfooterを付与
 	 */
-	public static function admin( $view_pass, $data=array())
+	public static function contents( $view_pass, $data = array(), $header = true, $footer = true )
 	{
+		
+		$header_view = "";
+		$body_view = "";
+		$footer_view = "";
+		
 		//ヘッダ読み込み
-		$header_view = View::forge('admin/common/header');
+		if( $header ) $header_view = View::forge('common/header');
+
 		//本体読み込み
 		$body_view = View::forge( $view_pass, $data, false);
+
 		//フッタ読み込み
-		$footer_view = View::forge('admin/common/footer');
+		if( $footer ) $footer_view = View::forge('common/footer');
+
 		//表示
 		echo $header_view.$body_view.$footer_view;
 	}
-	
 	/*
-	 * headerとfooterを付与しない
+	 * headerとfooterを付与
 	 */
-	public static function mainonly( $view_pass, $data=array())
+	public static function admin( $view_pass, $data = array() )
 	{
 		//ヘッダ読み込み
-		$header_view = View::forge('admin/common/nomalheader');
+		$header_view = View::forge('admin/common/header');
+
 		//本体読み込み
-		$body_view = View::forge( $view_pass, $data, false);
+		$body_view = View::forge( 'admin/'.$view_pass, $data, false);
+
 		//フッタ読み込み
-		$footer_view = View::forge('admin/common/nomalfooter');
+		$footer_view = View::forge('admin/common/footer');
+
 		//表示
-		echo $header_view.$body_view.$footer_view;
+		return $header_view.$body_view.$footer_view;
+
 	}
 }

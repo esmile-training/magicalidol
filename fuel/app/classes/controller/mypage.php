@@ -1,6 +1,6 @@
 <?php
 
-class Controller_Mypage extends Controller_Basegame
+class Controller_Mypage extends Controller_Base_Game
 {
 	public function action_index()
 	{
@@ -10,7 +10,7 @@ class Controller_Mypage extends Controller_Basegame
 		 */
 		$data = $this->Lib->exec('User', 'test', [10, 'masaya']);
 		
-		$this->view_data['img'] = $this->imgUrl('mypage', 'test', 'background.jpg', ['abcdefghijklmnopqrstuwxyz', '1234567890']);
+		$this->view_data['img'] = $this->img_url('mypage', 'test', 'background.jpg', ['abcdefghijklmnopqrstuwxyz', '1234567890']);
 		
 		//insert
 		//Controller_Mypage::insert($data);

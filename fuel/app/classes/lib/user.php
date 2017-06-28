@@ -1,19 +1,11 @@
 <?php
-class Lib_User extends Lib_Basegame
+class Lib_User 
 {
-	public function __construct()
+	public function get_cnt()
 	{
-		
+		$count = DB::count_records('user');
+		return $count;
 	}
-	
-	public function test($id = null, $name = 'unknown')
-	{
-		$name .= '‚³‚ñ';
-		
-		$data=array(
-			'id' => $id,
-			'name'=> $name 
-		);
-		return $data;
-	}
+
 }
+

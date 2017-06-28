@@ -1,8 +1,0 @@
-id	name	price	apvalue	buyFlg	expo	img	thumbnail	eventId
-1	ノーマル	0	0	0	いたって普通の部屋	room/normal.png	room/thumbnail/normal.png	0
-2	アリス	100	10	1	おとぎ話の世界へようこそ	room/alice.png	room/thumbnail/alice.png	0
-3	ロック	200	20	1	思わずかき鳴らしてしまう！	room/rock.png	room/thumbnail/rock.png	0
-4	ホラー	300	30	1	あなたを恐怖へとご招待	room/horror.png	room/thumbnail/horror.png	0
-5	アクアリウム	400	40	1	いつもと違う光景を	room/aquarium.png	room/thumbnail/aquarium.png	0
-6	ファンシー	500	50	1	いつも可愛くね	room/fancy.png	room/thumbnail/fancy.png	0
-7	和風	600	60	1	心に染み込む風景	room/japanese.png	room/thumbnail/japanese.png	0

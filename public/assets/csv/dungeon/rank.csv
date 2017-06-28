@@ -1,8 +1,0 @@
-id	rank	name	passImage	notpassImage	goal
-1	1	森林	dungeonBack/forest01.png	dungeonBack/forest02.png	dungeonBack/forest03.png
-2	2	洞窟	dungeonBack/cave01.png	dungeonBack/cave02.png	dungeonBack/cave03.png
-3	3	お城	dungeonBack/castle01.png	dungeonBack/castle02.png	dungeonBack/castle03.png
-4	4	工場	dungeonBack/factory01.png	dungeonBack/factory02.png	dungeonBack/factory03.png
-5	5	雲	dungeonBack/cloud01.png	dungeonBack/cloud02.png	dungeonBack/cloud03.png
-6	6	未来	dungeonBack/future01.png	dungeonBack/future02.png	dungeonBack/future03.png
-7	7	バラ	dungeonBack/rose01.png	dungeonBack/rose02.png	dungeonBack/rose03.png

@@ -7,14 +7,14 @@
 		border-collapse: collapse;
 	}
 	.user_list td, th {
-		border:1px #FFF solid;
+		border:1px #777 solid;
 		padding: 8px;
 	}
 	.user_list th {
 		background-color:#333;
 	}
 	.user_list td {
-		background-color:#DDD;
+		background-color:#EEE;
 		color: #111;
 	}
 </style>

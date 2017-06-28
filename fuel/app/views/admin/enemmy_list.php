@@ -23,7 +23,7 @@
 			<td>
 				<?= $enemmy['name'] ?>
 			</td>
-			<td >
+			<td style="">
 				<?= Asset::img(	'enemmy/'.$enemmy['id'].'.png',
 						array('id'=>'enemmy_img')	
 				) ?>
@@ -32,6 +32,4 @@
 	<?php endforeach; ?>
 </table>
 
-</div>
-	
 

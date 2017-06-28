@@ -6,13 +6,29 @@
 
 // -->
 </script>
+<style type="text/css">
+	.edit_list {
+		border-collapse: collapse;
+	}
+	.edit_list td, th {
+		border:1px #777 solid;
+		padding: 5px;
+	}
+	.edit_list th {
+		background-color:#AA3300;
+	}
+	.edit_list td {
+		background-color:#EEE;
+		color: #111;
+	}
+</style>
 <?= Form::open('admin/edit/' . $user_id); ?>
-	<table>	
+	<table class="edit_list">	
 			<?php foreach ($user as $key => $val): ?>
 				<tr style="margin:10px;">
-					<td style="text-align: right;">
-						<span style="padding:10px;"><?= $key ?> : </span>
-					</td>
+					<th style="text-align: right; padding:10px;">
+						<?= $key ?>
+					</th>
 					<td >
 						<?php if( in_array($key, array("id", "updated_at ")) ): ?>
 							<?= $val ?>

@@ -6,8 +6,8 @@
 </head>
 <body>
 	<div id="container">
-	<?= Asset::css("admin/common.css"); ?>
+		<?= Asset::css("admin/common.css"); ?>
 
-	<?= View::forge('admin/common/star_link',
-			array('str' => '管理画面TOPへ', 'url' => '')
-	);?>
+		<?= View::forge('admin/common/star_link',
+				array('str' => '管理画面TOPへ', 'url' => '')
+		);?>

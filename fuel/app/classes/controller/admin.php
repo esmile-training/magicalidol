@@ -76,7 +76,7 @@ class Controller_Admin extends Controller_Base_Admin
 				'id' => $user_id
 			)
 		));
-
+		
 		//ビュー表示
 		return View_Wrap::admin('user_edit', $this->view_data);
 	}
@@ -102,7 +102,7 @@ class Controller_Admin extends Controller_Base_Admin
 			//リダイレクト
 			Response::redirect('admin/user_list');
 		}
-		
+		var_dump($param);
 		//更新処理
 		foreach($param as $key => $val){
 			$Model_user->$key = $param[$key];

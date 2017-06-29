@@ -1,9 +1,13 @@
+body{
+	color: #FFF;
+}
+
 #container {
     margin: 30px auto;
-    background-color: #FFF;
+    background-color: #111;
     width : 960px;
     height: 580px;
-    color: #111;
+    color: #FFF;
     padding:10px;
 }
 

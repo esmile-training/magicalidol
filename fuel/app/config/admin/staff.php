@@ -1,5 +1,6 @@
 <?php
-return array( 'admin_staff' =>	//なるべく被りにくい名前にした方が良い。
+return array(
+	'admin_staff' =>	//なるべく被りにくい名前にした方が良い。
 	array(
 		'list' => array(
 			'programmer' => array(

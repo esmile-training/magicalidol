@@ -1,5 +1,5 @@
 <?php //検索フォーム ?>
-<?= Form::open(array('action' => 'mypage/user_login', 'method' => 'get')); ?>
+<?= Form::open(array('action' => 'top/login', 'method' => 'get')); ?>
 	<table>
 		<tr>
 			<td>ID：</td>
@@ -20,8 +20,10 @@
 	</table>
 <?=  Form::close(); ?>
 
-<?php if(!$msg): ?>
+<?php if(isset($msg)): ?>
 	<div>
 		IDが間違っています。
 	</div>
 <?php endif; ?>
+
+

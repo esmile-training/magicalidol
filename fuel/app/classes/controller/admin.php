@@ -131,8 +131,9 @@ class Controller_Admin extends Controller_Base_Admin
 	 */
 	public function action_staff()
 	{
-		Config::load('admin/staff');
-		$this->view_data['staff_list'] = Config::get('admin_staff.list');
+		Config::load('admin/staff');										//コンフィグファイルをロード
+		$this->view_data['staff_list'] = Config::get('admin_staff.list');	//コンフィグ取得
+
 		return View_Wrap::admin('staff', $this->view_data);
 	}
 }

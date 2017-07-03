@@ -1,22 +1,21 @@
-function connection()
+var object_data;
+
+function connection(json_data = Array(), url)
 {
-	var data = {
-        name: "はじめてのフレームワークとしてのFuelPHP"
-    };
-	
 	$(function ()
 	{
 		$.ajax({
-			type:'POST',
-			url: 'http://esmile-sys.sakura.ne.jp/magicalidol/mizugashira/base/ajax.json',
-			data: JSON.stringify(data),
-			contentType: 'application/json',
-			dataType: 'json',
-			timeout:1000,
+			type:'POST',					// 渡す方法を選択
+			url: url,						// 受け取り先を選択
+			dataType : 'json',				// データの型
+			data: json_data,				// データ
 			success: function(data) {
-				alert("ok");
+				// jsonデータをオブジェクトに変換
+				object_data = JSON.parse(data);
+				view(object_data);
 			},
 			error: function(data) {
+				// error処理
 				alert("ng");
 			}
 		});

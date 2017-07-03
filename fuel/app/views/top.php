@@ -20,7 +20,7 @@
 	</table>
 <?=  Form::close(); ?>
 
-<?php if(isset($msg)): ?>
+<?php if(isset($unauth_login)): ?>
 	<div>
 		IDが間違っています。
 	</div>

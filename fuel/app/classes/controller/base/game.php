@@ -9,7 +9,7 @@ class Controller_Base_Game extends Controller
 		Config::load('session');
 		$unauth_controller_list = Config::get('unauth_list.controller');
 		
-		if(in_array(CONTROLLERNAME, $unauth_controller_list))
+		if(!in_array(CONTROLLERNAME, $unauth_controller_list))
 		{
 			if(!isset($_SESSION['id']))
 			{

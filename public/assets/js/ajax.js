@@ -1,6 +1,7 @@
+// データ受け取り
 var object_data;
 
-function connection(json_data = Array(), url)
+function connection(url, method)
 {
 	$(function ()
 	{
@@ -8,18 +9,24 @@ function connection(json_data = Array(), url)
 			type:'POST',					// 渡す方法を選択
 			url: url,						// 受け取り先を選択
 			dataType : 'json',				// データの型
-			data: json_data,				// データ
 			success: function(data) {
 				// jsonデータをオブジェクトに変換
 				object_data = JSON.parse(data);
-				view(object_data);
+				if(object_data['data']  === false)
+				{
+					// データがないユーザ表示
+					ajax_isnull(object_data);
+				}
+				else
+				{
+					object_data.type = method;
+					// データがあるユーザ表示
+					ajax_binder(object_data);
+				}
 			},
 			error: function(data) {
-				// error処理
-				alert("ng");
+				console.log(data);
 			}
 		});
 	});
 }
-
-

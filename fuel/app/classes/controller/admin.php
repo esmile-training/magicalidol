@@ -136,4 +136,5 @@ class Controller_Admin extends Controller_Base_Admin
 
 		return View_Wrap::admin('staff', $this->view_data);
 	}
+
 }

@@ -4,29 +4,66 @@
  */
 class Controller_Base_Ajax extends Controller_Rest
 {
-	public function action_post_data()
+	/*
+	 * POSTされたユーザIDからデータを取得
+	 */
+	public function action_post_data($user_id)
     {
 		// 配列を初期化
 		$revision = array();
 		
-		// POST情報の受け取り
-        $id = input::post('id');
-		
 		// データベース接続・処理
-		$user_data = Model_User::find('first', array(
+		$user_data = Model_Developer::find('first', array(
 			'where' => array(
-				'id' => $id
+				'id' => $user_id
 			)
 		));
 		
-		// データベースからの情報だけ抽出
-		foreach($user_data as $key => $val)
+		if(is_null($user_data))
 		{
-			$revision[$key] = $val;
+			// データがない時の判定用
+			$revision['data'] = false;
+			$revision['id'] = $user_id;
+		}else{
+			// データベースからの情報だけ抽出
+			foreach($user_data as $key => $val)
+			{
+				$revision[$key] = $val;
+			}
 		}
 		// json型に変換
 		$conversion = json_encode($revision);
 		// データをajaxに戻す
         return $this->response($conversion);
     }
+	
+	/*
+	 * 開発者の削除・追加
+	 */
+	public function action_chenge_developer($user_id)
+	{
+		// userデータの取得
+		$user_data = Model_Developer::find('first', array(
+			'where' => array(
+				'id' => $user_id
+			)
+		));
+		
+		// ユーザ情報がなかった時
+		if(is_null($user_data))
+		{
+			
+		}
+		else
+		{
+			$user_data->delete();
+			$revision['data'] = false;
+			$revision['id'] = $user_id;
+		}
+		
+		// json型に変換
+		$conversion = json_encode($revision);
+		// データをajaxに戻す
+        return $this->response($conversion);
+	}
 }

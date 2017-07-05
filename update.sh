@@ -1,3 +1,4 @@
 git reset --hard HEAD
 git clean -fd
-git pull --rebase origin master
+git pull origin master
+ln -s ~/www/magicalidol/img ./public/assets/

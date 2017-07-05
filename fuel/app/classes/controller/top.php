@@ -23,7 +23,7 @@ class Controller_Top extends Controller_Base_Game
 		}
 		
 		// SESSIONに格納
-		$_SESSION['id'] = $this->view_data['user']->id;
+		$_SESSION['user_id'] = $this->view_data['user']->id;
 
 		//ビュー表示
 		Response::redirect('mypage');

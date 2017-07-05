@@ -1,3 +1,6 @@
+body {
+    color:#FFF;
+}
 #container {
 	position: relative;
     margin: 30px auto;

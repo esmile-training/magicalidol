@@ -6,5 +6,4 @@ class Controller_Top extends Controller_Base_Game
 	{
 		View_Wrap::contents('top', $this->view_data);
 	}
-
 }

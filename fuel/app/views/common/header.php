@@ -7,3 +7,4 @@
 <body style="background-color: #003">
 	<div id="container">
 		<?= Asset::css("common.css"); ?>
+		<?= Asset::css("modal.css"); ?>

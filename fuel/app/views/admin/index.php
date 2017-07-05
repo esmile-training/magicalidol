@@ -30,3 +30,6 @@
 <?= View::forge('admin/common/star_link',
 		array('str' => 'スタッフロール', 'url' => 'staff')
 );?>
+<?= View::forge('admin/common/star_link',
+		array('str' => 'ポップアップ', 'url' => 'popup')
+);?>

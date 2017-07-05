@@ -1,4 +1,5 @@
 #container {
+	position: relative;
     margin: 30px auto;
     background-color: #FFF;
     width : 960px;

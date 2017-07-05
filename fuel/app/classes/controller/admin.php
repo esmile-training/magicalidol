@@ -125,6 +125,17 @@ class Controller_Admin extends Controller_Base_Admin
 		//ビュー表示
 		return View_Wrap::admin('enemmy_list', $this->view_data);
 	}
+	
+	
+	/*
+	 * ポップアップ
+	 */	
+	public function action_popup()
+	{
+		$this->view_data['value'] = 'abc';
+		
+		return View_Wrap::admin('popup', $this->view_data);
+	}
 
 	/*
 	 * スタッフロール

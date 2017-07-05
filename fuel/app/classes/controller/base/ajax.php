@@ -45,7 +45,7 @@ class Controller_Base_Ajax extends Controller_Rest
 		// userデータの取得
 		$user_data = Model_Developer::find('first', array(
 			'where' => array(
-				'id' => $user_id
+				'user_id' => $user_id
 			)
 		));
 		

@@ -24,14 +24,14 @@ class Controller_Base_Game extends Controller
 
 		//セッションが無ければタイトルに戻す
 		session_start();
-		if(!isset($_SESSION['id']))
+		if(!isset($_SESSION['user_id']))
 		{
 			Response::redirect('top');
 		}
 		//ユーザ確認
 		$user = Model_User::find('first', array(
 			'where' => array(
-				'id' => $_SESSION['id']
+				'id' => $_SESSION['user_id']
 			)
 		));
 		if(is_null($user))

@@ -2,23 +2,26 @@
 	</div>
 <?= Asset::js("jquery-3.2.1.min.js"); ?>
 <?= Asset::js("modal.js"); ?>
-	
+
 <?php if($user['developer']): ?>
-	<table>
+	<table class="footer_developer">
 		<tr>
-			<td>ユーザID</td>
+			<th>ユーザID：</th>
 			<td><?= $user['id']; ?></td>
 		</tr>
 		<tr>
-			<td>名前</td>
+			<th>名前：</th>
 			<td><?= $user['name']; ?></td>
 		</tr>
 		<tr>
-			<td>デバッグ日時</td>
+			<th>デバッグ日時：</th>
 			<td><?= $user['nowtime']; ?></td>
 		</tr>
 	</table>
-<?php endif; ?>
 
+	<div>
+		<?= Html::anchor(ADMIN_URL, "管理画面へ", array("style" => "color:aqua")); ?>
+	</div>
+<?php endif; ?>
 </body>
 </html>

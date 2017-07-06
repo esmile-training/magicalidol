@@ -17,12 +17,13 @@ class Controller_Top extends Controller_Base_Game
 				'id' => $param['user_id']
 			)
 		));
-		
+
 		if(is_null($this->view_data['user'])){
 			Response::redirect('top/login_exit');
 		}
-		
+
 		// SESSIONに格納
+		session_start();
 		$_SESSION['user_id'] = $this->view_data['user']->id;
 
 		//ビュー表示

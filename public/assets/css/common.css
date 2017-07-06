@@ -15,3 +15,6 @@ body {
     text-decoration: none;
     color: aqua;
 }
+.footer_developer th{
+    text-align: right;
+}

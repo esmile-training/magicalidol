@@ -1,28 +1,27 @@
 <?php //検索フォーム ?>
-<?= Form::open(array('action' => 'top/login', 'method' => 'get')); ?>
+<?= Form::open(array('action' => 'top/login', 'method' => 'post')); ?>
 	<table>
 		<tr>
-			<td>ID：</td>
+			<td>名前</td>
 			<td>
-				<?= Form::input('user_id',  '', array(	'style' => 'padding:3px;', 'placeholder' => 'IN検索(カンマ区切り)' )); ?>
+				<?= Form::input('name',  '', array(	'style' => 'padding:3px;' )); ?>
 			</td>
-			<td>名前:</td>
+		</tr>
+		<tr>
+			<td>合言葉</td>
 			<td>
-				<?= Form::input('user_name', '', array( 'style' => 'padding:3px;', 'placeholder' => 'LIKE検索')); ?>
-			</td>
-			<td>
-				<?= Form::button(null, '検索', array('type' => 'submit', 'style' => 'padding: 2px;')); ?>
-			</td>
-			<td>
-				<?= Html::anchor(CONTENTS_URL . 'top', 'リセット'); ?>
+				<?= Form::input('password', '', array( 'type'=>'password', 'style' => 'padding:3px;')); ?>
 			</td>
 		</tr>
 	</table>
+	<div>
+		<?= Form::button(null, 'ログイン', array('type' => 'submit', 'style' => 'padding: 2px;')); ?>
+	</div>
 <?=  Form::close(); ?>
 
-<?php if(isset($unauth_login)): ?>
+<?php if($error_msg): ?>
 	<div>
-		IDが間違っています。
+		<?= $error_msg ?>
 	</div>
 <?php endif; ?>
 
